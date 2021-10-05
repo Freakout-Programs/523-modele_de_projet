@@ -35,9 +35,7 @@
 Par ce projet, nous souhaitons montrer le passage du temps, les conséquences néfastes de comportements pris par acquis par les générations passées et leurs répercussions sur les générations futures.
 
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
-
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+Maison hantée 
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
