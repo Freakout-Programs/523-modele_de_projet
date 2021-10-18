@@ -25,7 +25,6 @@
 
 # Intention ou concept
 ## Cartographie
-> Exemples:
 
 ![Plan de salle version beta](medias/dubois-lacombe-plan-salle-1.png)
 
