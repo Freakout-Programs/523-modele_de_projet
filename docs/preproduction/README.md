@@ -27,7 +27,7 @@
 ## Cartographie
 > Exemples:
 
-![Plan de salle version beta](medias/dubois-lacombe-plan-salle-1.drawio (2).PNG)
+![Plan de salle version beta](medias/dubois-lacombe-plan-salle-1.drawio (2).png)
 
 ## Intention de départ
 Par ce projet, nous souhaitons montrer le passage du temps, les conséquences néfastes de comportements pris par acquis par les générations passées et leurs répercussions sur les générations futures.
