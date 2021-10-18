@@ -26,8 +26,6 @@
 # Intention ou concept
 ## Cartographie
 
-![Plan de salle version beta](medias/dubois-lacombe-plan-salle-1.png)
-
 ## Intention de départ
 Par ce projet, nous souhaitons montrer le passage du temps, les conséquences néfastes de comportements pris par acquis par les générations passées et leurs répercussions sur les générations futures.
 
@@ -50,7 +48,7 @@ Maison hantée
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![Plan de salle version beta](medias/dubois-lacombe-plan-salle-1.png)
 
 ### Schéma de branchement 
 
