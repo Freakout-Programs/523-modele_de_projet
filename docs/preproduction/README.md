@@ -24,13 +24,15 @@
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 
 # Intention ou concept
+L'intention du projet est de faire voir aux visiteurs l'impact du temps de notre ère à l'aide de minis scénarios cinématiques en réalité virtuelle qui se dirigeront vers une fin criante à l'aide d'une trame sonore et d'outils intéractifs pertinants.
+
 ## Cartographie
 
 ## Intention de départ
 Par ce projet, nous souhaitons montrer le passage du temps, les conséquences néfastes de comportements pris par acquis par les générations passées et leurs répercussions sur les générations futures.
 
 ## Synopsis
-Maison hantée 
+Une sphère principale accueille le visiteur amicalement dans l'espace virtuel et l'invite dans de petites séances cinématiques qui, durant de la progression, prennent une atmosphère de plus en plus terrorisante sous le thème du cours du temps d'une vie, et le tout avec la sphère principale qui étrangement reste toujours amicale avec une voix de plus en plus épeurante.
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
