@@ -29,7 +29,7 @@ L'intention du projet est de faire voir aux visiteurs l'impact du temps de notre
 ## Cartographie
 
 ## Intention de départ
-Par ce projet, nous souhaitons montrer le passage du temps, les conséquences néfastes de comportements pris par acquis par les générations passées et leurs répercussions sur les générations futures.
+Par ce projet, nous souhaitons montrer le passage du temps, par les conséquences de comportement d'une personne, avec une interpellation universelle, et les répercussions sur son avenirs dramatique, qui pourrait probablement arriver au visiteur également.
 
 ## Synopsis
 Une sphère principale accueille le visiteur amicalement dans l'espace virtuel et l'invite dans de petites séances cinématiques qui, durant de la progression, prennent une atmosphère de plus en plus terrorisante sous le thème du cours du temps d'une vie, et le tout avec la sphère principale qui étrangement reste toujours amicale avec une voix de plus en plus épeurante.
