@@ -1,5 +1,5 @@
-# Journal de "Participant 1"
-![portrait du participant ](../web/medias/participants/A.png)
+# Journal de William Dubois
+![portrait du participant ](../web/medias/participants/dubois_william.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
