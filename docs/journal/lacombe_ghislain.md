@@ -16,7 +16,7 @@
 
 ### Résumé des réalisations effectuées
 - Brainstorm des idées de projet. 
-- Création du Moodboard. 
+- Création de l'intention, du synopsis et du Moodboard. 
 - Création du scénario plan par plan. 
 - Création du storyboard.(En cours)
 
