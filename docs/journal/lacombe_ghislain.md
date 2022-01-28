@@ -49,7 +49,7 @@ N/A
 N/A
 
 ### Défis pour la prochaine semaine
-Finir le storyboard et commencer un prototype.
+Finir le storyboard, faire la liste des matériaux nécessaires et commencer un prototype.
 
 ---
 ## Semaine 2
