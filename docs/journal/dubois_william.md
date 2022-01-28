@@ -16,43 +16,39 @@
 
 ### Résumé des réalisations effectuées
 - Mise à jour du template GitHub.
-- Avoir pris le temps de dîner.
-- Corriger les redirections des fichiers index.html
+- Réaliser l'intention, le synopsis, le scénario court et le scénario plan par plan.
+- Organiser le temps de travail pour la semaine 2.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-<!--![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)-->
+![Aperçu du scénario plan par plan](medias/dubois-william-fier-semaine-01.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-
+Car j'ai pu réaliser mon intention, mon synopsis, le scénario court et le scénario plan par plan. Je n'aurai pas pensé pouvoir faire tout cela avant vendredi, mais j'ai réussi.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Réaliser le storyboard ce lundi et remettre un GitHub plus à jour pour la semaine 2 le plus possible.
 
 ---
 ## Semaine 2
