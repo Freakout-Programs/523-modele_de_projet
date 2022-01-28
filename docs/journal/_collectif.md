@@ -41,6 +41,8 @@ Tout d’abord, comme prévu, nous avons terminé de créer l'intention, le syno
 ![image de réunion](medias/meeting_zoom.png)
 
 Par la suite, nous avons complété le scénario plan par plan. 
+![image du scénario](medias/scenario.png)
+
 
 Enfin, nous avons planifié les éléments à continuer la semaine prochaine, soit le storyboard et faire la liste des matériaux nécessaires et schéma de branchement. Nous avons hâte de nous mettre à la tâche!
 
