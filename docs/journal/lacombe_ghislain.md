@@ -15,28 +15,19 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Bonjour. 
-- Je. 
-- Remplis. 
-- Mon. 
-- Journal. 
-- Semaine. 
-- 1. 
+- Brainstorm des idées de projet. 
+- Création du Moodboard. 
+- Création du scénario plan par plan. 
+- Création du storyboard.(En cours)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Mon image temporaire](medias/ghislain_profile.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
-
-#### Décrivez pourquoi.
-Difficulté de parcours. 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Me rattraper durant les 3 premières semaines.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -46,13 +37,10 @@ Me rattraper durant les 3 premières semaines.
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Manque de prototypage.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Me rattraper durant les 3 premières semaines.
+Aucun current écart.
 
 ### Défis pour la prochaine semaine
-Créer le prototypage.
+Finir le storyboard et commencer un prototype.
 
 ---
 ## Semaine 2
