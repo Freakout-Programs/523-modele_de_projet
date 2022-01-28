@@ -38,7 +38,7 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 1
 
 Tout d’abord, comme prévu, nous avons terminé de créer l'intention, le synopsis et le moodboard.
-![image de réunion](medias/meeting_zoom.png)
+![image résumant semaine 1](medias/semaine-1.png)
 
 Par la suite, nous avons complété le scénario plan par plan. 
 
