@@ -29,6 +29,12 @@
 - [ ] Peu
 - [ ] Pas du tout
 
+#### Décrivez pourquoi.
+ La planification du projet est respectée.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+N/A
+
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [x] Complètement
@@ -37,7 +43,10 @@
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Aucun current écart.
+N/A
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+N/A
 
 ### Défis pour la prochaine semaine
 Finir le storyboard et commencer un prototype.
