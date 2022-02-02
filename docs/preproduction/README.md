@@ -71,6 +71,7 @@ Enfin, des témoignages/articles de journal sont visibles sur les murs pour sens
 ![Moodboard / image 2 du salon](medias/salon-2.png)
 
 ![Moodboard / image 3 du salon](medias/salon-3.png)
+[Lien vers la vidéo YouTube](https://www.youtube.com/watch?v=-T4bmlCQS9c#t=2m58s)
 
 # Matériel (Mesh)
 
@@ -102,9 +103,13 @@ Enfin, des témoignages/articles de journal sont visibles sur les murs pour sens
 # Scénario (Version Courte)
 
 Le visiteur rentre dans une pièce colorée bleu pâle avec une musique relaxante. Une vidéo est projetée sur le mur, elle montre une conversation d’un téléphone mobile entre deux adolescents contents d’une semaine sans école. On apprend au travers de cette discussion que des cours à distance débuteront sous peu. Les messages à ce sujet sont enthousiastes. Lorsque les messages s'arrêtent, une lumière sur le bureau au centre de la pièce avec un casque VR s’allume, indiquant au visiteur le prochain aspect de l’expérience. Le visiteur peut alors s'asseoir au bureau et mettre le casque.
-—------------------------
+
+---
+
 Une fois que le visiteur a enfilé le casque, le visiteur se retrouve assis sur une chaise avec devant lui un bureau tenant un ordinateur portable qui diffuse une classe scolaire Zoam (Zoom/Team fictive). Le professeur fictif de cette classe se présente et explique les travaux à faire prochainement. Après un cours moment, une transition au noir fade-in fade-out amène le visiteur assis sur le sofa dans le salon regardant les nouvelles sur la télévision. Après une autre transition au noire, le visiteur se réveille le matin, déjeune dans la cuisine, assiste à son cours en ligne devant son ordinateur portable dans sa chambre, écoute la télévision le soir, se rendort. À partir de là, une boucle temporelle répétitive s’observe. Après quelques boucles, le chaos commence progressivement à prendre forme. Tout en accélérant périodiquement la vitesse de délai entre les transitions de la boucle, la voix du professeur commence à devenir robotique, des piles de feuilles de travail se remplissent d'avantages dans la chambre, les caméras des élèves de la classe virtuelle se désactivent graduellement par un avatar avec le texte “Déconnecté”, les textures des toasts du visiteurs sont visuellement des feuilles d’examen. Puis à un certain point, ce chaos amènera même le professeur à enseigner les pieds au plafond, de parler dans des langues étrangères, et même à apparaître et à donner son cours dans la chambre du visiteur. À cette phase, une option “Se Déconnecter” apparaît sur l’écran de l’ordinateur portable. Quand le joueur appuie sur cette option, tout le chaos prend fin, visuellement comme à l’oreille, et la pièce devient subitement noire, et la seule chose qui reste visible est l’ordinateur portable.
-—------------------------
+
+---
+
 Lorsque le casque montre l’ordinateur portable seul, les lumières extérieures deviennent rouges, alternant de vif à foncé. Sur le(s) mur(s), on aperçoit divers témoignages et articles de journal apparaître l’un après l’autre. Une conversation sur un téléphone mobile est présente, les mêmes adolescents parlent d’un nouveau variant faisant surface, comment la situation ne semble pas s'améliorer. On finit sur une note plus sombre alors que le casque VR est éclairé à nouveau, à côté de pile de travaux. Si on remet le casque, on peut voir le message “Recommencer?”(ça peut être autre chose) L’expérience se termine.
 
 
