@@ -278,6 +278,8 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 
 ![Image storyboard 3](medias/storyboard-3.png)
 
+# Allié pour modelisation 3D
+
 ![Utilisation des ressources de Adobe Dimension #1](medias/3d-source-1.png)
 
 ![Utilisation des ressources de Adobe Dimension #2](medias/3d-source-2.png)
