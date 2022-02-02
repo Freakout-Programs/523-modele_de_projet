@@ -114,54 +114,78 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 
 Le visiteur rentre dans une pièce colorée bleu pâle avec une musique relaxante. Une vidéo est projetée sur le mur, elle montre une conversation d’un téléphone mobile entre deux adolescents contents d’une semaine sans école. On apprend au travers de cette discussion que des cours à distance débuteront sous peu. Les messages à ce sujet sont enthousiastes. Lorsque les messages s'arrêtent, une lumière sur le bureau au centre de la pièce avec un casque VR s’allume, indiquant au visiteur le prochain aspect de l’expérience. Le visiteur peut alors s'asseoir au bureau et mettre le casque.
 
+---
+
 # 1.1 INT. MATIN CHAMBRE
 
-# Le visiteur se retrouve, dans sa chambre, devant un ordinateur portable. L’écran de celle-ci affiche une page Zoam avec un bouton “Appuyer pour se connecter” demandant une interaction avec le visiteur. Une fois ce bouton appuyé, l’interface Zoam affiche une session de classe en ligne en direct avec des webcams ouvertes dont celle du professeur. Celui-ci se présente.
+Le visiteur se retrouve, dans sa chambre, devant un ordinateur portable. L’écran de celle-ci affiche une page Zoam avec un bouton “Appuyer pour se connecter” demandant une interaction avec le visiteur. Une fois ce bouton appuyé, l’interface Zoam affiche une session de classe en ligne en direct avec des webcams ouvertes dont celle du professeur. Celui-ci se présente.
+
+---
 
 **PROFESSEUR:** 
 
 “Bonjour, bienvenue dans votre cours de français, aujourd’hui, nous verrons ensemble le plan de cours de cette session. Vu cette situation exceptionnelle de la pandémie, les travaux présents cette année ont été révisés afin de s’assurer de ne pas donner une trop lourde charge de travail. Ceci étant dit, n’en profitez pas pour négliger vos responsabilités en pensant qu’un cours à distance voudrait dire plus de relâchement. Vous risqueriez d’être surpris.”
 
+---
+
 # 1.2 INT. SOIRÉE SALLE À MANGER
 
 Le visiteur est assis devant une table mangeant des céréales, seul. Rien d'étrange ne survient.
+
+---
 
 # 1.3 INT. NUIT SALON
 
 Le visiteur est assis sur un canapé, les lumières éteintes, en train de regarder la télévision. Sur l’écran de la télévision, il y a une courte animation en boucle de type cartoon de 2 personnages se frappant à chacun leurs tours un coup de marteau sur la tête. Le visiteur s’endort sur le canapé.
 
+---
+
 # 2.1 INT MATIN CHAMBRE
 
 Le visiteur se retrouve de nouveau devant l’ordinateur portable qui est connecté sur le même cours virtuel précédent. Une feuille est présente à côté de l’ordinateur alors que le professeur explique le travail à effectuer.
 
+---
 
 **PROFESSEUR:** 
 “Lors de votre parcours au collégial, vous serez amené à grandement utiliser les procédés d'écriture. Cependant, quels sont-ils? Il y a des figures de style, comme l’hyperbole ou la métaphore. Il y a le vocabulaire qui peut être mélioratif, péjoratif, ou même être un champ lexical. Enfin, il y a tant d’autres possibilités, comme le point d’exclamation qui peut exprimer une émotion. Avez-vous tous pris en note ce que j’ai dit? Oui? Alors on continue.”
 
+---
 
 # 2.2 INT. SOIRÉE SALLE À MANGER
 
 Le visiteur mange encore ses céréales, toujours seul. Toujours rien hors de l’ordinaire ne survient.
 
+---
+
 # 2.3 INT. SOIR SALON
 
 Le visiteur se retrouve encore une fois assis devant sa télévision. Celle-ci affiche un autre cartoon court en boucle montrant un chat qui ouvre et ferme sa bouche de manière exagérée tout en dansant. Puis se rendort encore une fois sur le sofa.
+
+---
 
 # 3.1 INT. MATIN CHAMBRE
 
 Le visiteur se retrouve une nouvelle fois devant son ordinateur portable, mais ne parvient pas à se connecter à son cours virtuel. D’abord, un bouton “Se connecter” s’affiche, après interaction, une animation de chargement est affichée, puis un message d’erreur apparaît avec un bouton “Réessayer ?”. Après 3 tentatives, un bouton “Contacter le professeur ?” se manifeste. Une fois enclenché, une page de chargement apparaît avec l’heure fictive dans le jeu qui accélère légèrement. Après que cette fausse horloge a complété presque 2 heures, le joueur rejoint enfin son cours, mais le professeur venait de finir d’expliquer les consignes pour le prochain travail.
 
+---
+
 **PROFESSEUR:**
 
 “-intenant que tout est dit, vous pouvez commencer à vous préparer à rédiger ce travail qui faudra 30% de la session.”
+
+---
 
 # 3.2 INT. SOIRÉE SALLE À MANGER
 
 Le visiteur, toujours devant sa table de cuisine, à devant lui une pile de papier et de livres, avec un peu éloigné à sa droite son bol de céréales habituel.
 
+---
+
 # 3.3 INT. NUIT SALON
 
 Le visiteur se réveille en plein milieu de la nuit, entassé dans ses feuilles et livres sur le sofa, la télévision, qui est sur le canal météo, n’affiche que de la pluie pour toute la semaine. Le joueur se rendort avec son tas de papier.
+
+---
 
 # 4.1 INT. MATIN CHAMBRE
 
@@ -173,50 +197,73 @@ Le visiteur se retrouve une fois de plus devant son ordinateur, mais sa chambre 
 “Cette nouvelle par J̶͙̯̦̪̫̟̆͛͘è̷͓̣̱̙̦́͂̅́̈́͛̈́͂̕͜ǎ̶̭̈́̅̓̐̐̋͆̾̽͘͝n̶̡̳̠̼͚̫̦͉̣̑͑͆̈́͊͂́͒͋̌̾͝͠͝-̵͖̥̞̥̣̟̹͔͖̥̠̪̙͓͂̒͜Ṕ̴̧̙̗̟̙̯̤̠̤̙̣͔͑̈́̽̂ͅȁ̸̧̍͊͊̊̌͂̋͆̓̄͘͘̚ͅử̷̢̞̬̘̲̩͕͕̫̯͓̹̲̈́̂̽͘͝l̶̼̼̔̐̃ͅ ̶̭͉̟͗͂͐͌̀̋͠͝D̴̢̛̳͚͖̙͖̥̈́̏̌̊͗̿ú̸̢͚̪̟̼̗̦̪̫̘̥͚̺͆̅͆̒͂͊̿̉̊͜͝b̵̢̡͇̗̣̬̣͔̦̦̯̫̹̩̪͊̍̑͑́͗̍̔̈́̊͒͛̍͒̚o̵͔͊̋̈̌͐̉̆̽i̵̡̜̬̭̝͓͎͉̰̬̠̪̳̍̈́̎͋̽̂̀͝ͅş̴̝̪͈̤̪͉̬̏͒̈́̓ parle du monde dans le temps des s̴̲͙̙̪̤̞̗̈̄̄̾͂͝ö̴̺̟͔̤̭̮̲̘̻͈͎̳̥͈́́͌̎̓̍̚ͅu̷̧̢͓̣̜͍̳̘̱̽̒̀͊̔̓̾͠v̵̡̡̝͓͓̞̗͙͈͈̟̲͍͕̯̐͑̊̂ȇ̴̞̼̠̖̪̥͎̹͍͎͉̎͛ṙ̷̭̰̫͇̠͔̖̠̣̫̫̙̥͒̀͝͠ͅả̵̧̧̛̼̫̭̹̹̘̖͉͓͎̤͕̣̃̓̊͐̈́͗͐̿̚i̸̖̥̱̣̔͂̀͆̌̈͛̀̒͒̇̚͜n̸͍͓̂s̴̡̤̲͚̰͆́̇͘͝͝ . Son auteur a voulu revendiquer les abus du pouvoir par F̸̨̣̝͗̌̀̉͂̂r̸̯̩̄́̈a̵͍͚̲̼̘͍̻̺͉̰͚͇̜͌̿̆n̸͎̞͊̈̀̒͐͑͒͌̕͠ç̸̨̝̦̞̻̙̍̋̋̀̔̃́͋͛͂͐͠o̷̢̧̧͎͙͓̭͖͍̜̙͆͝i̶̡̦͑͒̾̑̆̇ṣ̸̨̧̡̛̳̭̱̩̰͓͖̹̼̌̀̆̓͐̀̍͊͌́͛ ̷̨̢͇̥͎̫͉͕̤̈̃̀̓̇͂̚͠L̵̳̰͚̣͛̆̾̋͝ĕ̴̛͇̬̭̲͚̾m̵̱͍͕͍̫̬͋͑̕i̴͉̫̩̼̫̲̯̻͚̤̪̬̓̃̍̀͛͝ͅȇ̸̳̻̱͍͓̖̌̑̔͑̒̚ų̶̛̘̓̈́͂̆̀̓̌̏̀͝͝x̴̞͙̲͂̅͋͐, un groupe connu pour...”
 
 
+---
+
 # 4.2 INT. SOIRÉE SALLE À MANGER
 
 Le visiteur, devant sa table de cuisine, est devant son bol de céréale, qui celui-ci est au centre de la table (trop loin pour l’atteindre) tout en entendant autour de lui (spatialisation sonore) des bruitages faibles de Zoam (bruitage Teams).
+
+---
 
 # 4.3 INT. NUIT SALON
 
 Le visiteur regarde sa télévision, encore sur le canal météo, annonçant de violents orages pour les prochains jours. Le tout en voyant fixer devant sa face le papier de son travail de 30% qu’il a coulé (gameObject du papier fixé en opacité sur la caméra Unity du joueur). Il finit par se rendormir.
 
+---
+
 # 5.1 INT. MATIN CHAMBRE
 
 Le visiteur devant son ordinateur portable, comme d’habitude connecté sur Zoam, mais qui affiche maintenant qu’un peu moins que la moitié des caméras sont désactivées, essaie d’écouter le professeur qui parle maintenant avec un mélange de russe, de japonais et d’allemand. De nouvelles piles de feuilles apparaissent aussi.
+
+---
 
 # 5.2 INT. SOIRÉE SALLE À MANGER
 
 Le visiteur mange toujours ses fameuses céréales, mais la chaise à laquelle il est assis, la table, et ses céréales sont fixées au plafond.
 
+---
+
 # 5.3 INT. NUIT SALON
 
 Le visiteur est assis dans son salon regardant la télévision, qui affiche une annonce publicitaire mettant en vedette son professeur rappelant le travail final valant pour 40% de la session.
+
+---
 
 # 5.4 UNDEFINED NUIT RÊVE
 
 Le visiteur est plongé dans un couloir sans fin rempli de feuilles de notes désastreuses de styles et formes variés. Les murs prennent des formes étranges comme pour se refermer peu à peu sur lui.
 
+---
+
 # 5.5 INT. NUIT SALON
 
 Le visiteur se réveille au milieu de la nuit assis sur le sofa, devant la télé diffusant le cartoon des deux personnages qui se frappent avec un marteau, mais les deux personnages se transforment en son professeur. Puis se rendort pour le reste de la nuit.
+
+---
 
 # 6.1 INT. MATIN CHAMBRE
 
 Le visiteur se réveille de son lit et voit plusieurs piles de feuilles dans sa chambre en train de s'agrandir. Après quelques secondes, on cligne des yeux et elles disparaissent. À ce moment, le cellulaire du visiteur, à côté de lui, émet une sonnerie (l’invitant à le prendre). Il remarque que le cellulaire affiche que tous ses amis ne se sont plus connectés depuis très longtemps. Après un moment, l’ordinateur portable émet une petite musique indiquant que le cours est sur le point de commencer. Le visiteur est placé devant l’ordinateur, est observé sur l’interface Zoam, qu’à l’exception de lui-même et du prof, tous les autres ont leurs caméras désactivées.
 
+---
+
 # 6.2 INT ??? CHAMBRE/SALLE À MANGER/SALON
 
 Le visiteur se déplace avec son laptop de scène en scène, de plus en plus rapidement. Plusieurs éléments paranormaux sont présents dans chaque scène alors qu’elles se referment peu à peu sur le visiteur, comme le corridor. Un bouton “Se Déconnecter” clignote dans l’écran de l’ordinateur. Si le visiteur ne clique pas sur le bouton après une certaine période de temps, une animation où le bouton est cliqué joue. Lorsque le bouton est cliqué, on passe en scène 6.3 le son de battement de cœur grave de William joue de plus en plus vite lors de la scène 6.2.
+
+---
 
 # 6.3 TENEBRE VIDE
 
 L’environnement du visiteur est complètement noir est inexistant, à l’exception de l’ordinateur portable qui est la seule chose visible de l’environnement.
 
+---
+
 # 7.1 INT APRÈS-MIDI GRAND STUDIO
 
 Lorsque le casque montre l’ordinateur portable seul, les lumières extérieures deviennent rouges, alternant de vif à foncer. Sur le(s) mur(s), on aperçoit divers témoignages et articles de journaux apparaître l’un après l’autre. Une conversation sur un téléphone mobile est présente, les mêmes adolescents parlent d’un nouveau variant faisant surface, comment la situation ne semble pas s'améliorer. On finit sur une note plus sombre alors que le casque VR est éclairé à nouveau, à côté de piles de travaux. Si on remet le casque, on peut voir le message “Recommencer?”(ça peut être autre chose) L’expérience se termine.
 
+---
 
 # Storyboard
 
