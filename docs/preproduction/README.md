@@ -3,7 +3,6 @@
 
 # Table des matières
 1. [Intention ou concept](#Intention-ou-concept)
-    - [Cartographie](#Cartographie)
     - [Intention de départ](#Intention-de-départ)
     - [Synopsis](#Synopsis)
     - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
@@ -23,19 +22,6 @@
     - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 
-# Intention ou concept
-Faire comprendre l’évolution de l’angoisse ressentie par un étudiant type et de ses difficultés sociales et scolaires rencontrées au fil des différentes phases du confinement.
-
-## Cartographie
-
-* Vaincre une sphère tyrannique.
-
-* Conséquences des choix d'une personne à travers le temps.
-
-* Conséquences des choix d'un parent sur le futur de leur enfant à travers le temps.
-
-* L'impact des cours à distance sur la mentalité des étudiants.
-
 ## Intention de départ
 Faire comprendre l’évolution de l’angoisse ressentie par un étudiant type et de ses difficultés sociales et scolaires rencontrées au fil des différentes phases du confinement.
 
@@ -52,19 +38,19 @@ Enfin, des témoignages/articles de journal sont visibles sur les murs pour sens
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
 
-# Chambre
+### Chambre
 
 ![Moodboard / image 1 de la chambre](medias/chambre-1.png)
 
 ![Moodboard / image 2 de la chambre](medias/chambre-2.png)
 
-# Salle à manger
+### Salle à manger
 
 ![Moodboard / image 1 de salle à manger](medias/salle-a-manger-1.png)
 
 ![Moodboard / image 2 de salle à manger](medias/salle-a-manger-2.jpg)
 
-# Salon
+### Salon
 
 ![Moodboard / image 1 du salon](medias/salon-1.png)
 
@@ -73,11 +59,11 @@ Enfin, des témoignages/articles de journal sont visibles sur les murs pour sens
 ![Moodboard / image 3 du salon](medias/salon-3.png)
 [Lien vers la vidéo YouTube](https://www.youtube.com/watch?v=-T4bmlCQS9c#t=2m58s)
 
-# Matériel (Mesh)
+### Matériel (Mesh)
 
 ![Moodboard / site Web de référence pour source de matériel pour Mesh 3D](medias/materiel-mesh.png)
 
-# Images angoissantes
+### Images angoissantes
 
 ![Moodboard / image angoissante 1](medias/angoisse-1.png)
 [Lien YouTube vers cette vidéo](https://www.youtube.com/watch?v=NoJlVALDSGM#t=17m12s)
@@ -90,194 +76,194 @@ Enfin, des témoignages/articles de journal sont visibles sur les murs pour sens
 
 ![Moodboard / image angoissante 5](medias/mouton-red.png)
 
-# Projet vidéo
+### Projet vidéo
 
 [Référence vidéo d'un projet d'équipe dans le cadre du cours Conception vidéo lors de la session hiver 2019](https://youtu.be/mi1dX7AC9r4)
 
-# Voix robotisées
+### Voix robotisées
 
 [Site Web gratuit pour convertir texte en voix dans plusieurs langues et téléchargeable en fichier mp3](https://freetts.com/Home/)
 
 ## Scénario, scénarimage ou document audio/visuel
 
-# Scénario (Version Courte)
+### Scénario (Version Courte)
 
 Le visiteur rentre dans une pièce colorée bleu pâle avec une musique relaxante. Une vidéo est projetée sur le mur, elle montre une conversation d’un téléphone mobile entre deux adolescents contents d’une semaine sans école. On apprend au travers de cette discussion que des cours à distance débuteront sous peu. Les messages à ce sujet sont enthousiastes. Lorsque les messages s'arrêtent, une lumière sur le bureau au centre de la pièce avec un casque VR s’allume, indiquant au visiteur le prochain aspect de l’expérience. Le visiteur peut alors s'asseoir au bureau et mettre le casque.
 
----
+-----------------------------
 
 Une fois que le visiteur a enfilé le casque, le visiteur se retrouve assis sur une chaise avec devant lui un bureau tenant un ordinateur portable qui diffuse une classe scolaire Zoam (Zoom/Team fictive). Le professeur fictif de cette classe se présente et explique les travaux à faire prochainement. Après un court moment, une transition au noir fade-in fade-out amène le visiteur assis sur le sofa dans le salon regardant les nouvelles sur la télévision. Après une autre transition au noire, le visiteur se réveille le matin, déjeune dans la cuisine, assiste à son cours en ligne devant son ordinateur portable dans sa chambre, écoute la télévision le soir, se rendort. À partir de là, une boucle temporelle répétitive s’observe. Après quelques boucles, le chaos commence progressivement à prendre forme. Tout en accélérant périodiquement la vitesse de délai entre les transitions de la boucle, la voix du professeur commence à devenir robotique, des piles de feuilles de travail se remplissent davantages dans la chambre, les caméras des élèves de la classe virtuelle se désactivent graduellement par un avatar avec le texte “Déconnecté”, les textures des toasts du visiteur sont visuellement des feuilles d’examen. Puis à un certain point, ce chaos amènera même le professeur à enseigner les pieds au plafond, de parler dans des langues étrangères, et même à apparaître et à donner son cours dans la chambre du visiteur. À cette phase, une option “Se Déconnecter” apparaît sur l’écran de l’ordinateur portable. Quand le joueur appuie sur cette option, tout le chaos prend fin, visuellement comme à l’oreille, et la pièce devient subitement noire, et la seule chose qui reste visible est l’ordinateur portable.
 
----
+-----------------------------
 
 Lorsque le casque montre l’ordinateur portable seul, les lumières extérieures deviennent rouges, alternant de vif à foncer. Sur le(s) mur(s), on aperçoit divers témoignages et articles de journaux apparaître l’un après l’autre. Une conversation sur un téléphone mobile est présente, les mêmes adolescents parlent d’un nouveau variant faisant surface, comment la situation ne semble pas s'améliorer. On finit sur une note plus sombre alors que le casque VR est éclairé à nouveau, à côté de piles de travaux. Si on remet le casque, on peut voir le message “Recommencer?”(ça peut être autre chose) L’expérience se termine.
 
-# Scénario plan par plan
+## Scénario plan par plan
 
-# 0.1 INT APRÈS-MIDI GRAND STUDIO
+### 0.1 INT APRÈS-MIDI GRAND STUDIO
 
 Le visiteur rentre dans une pièce colorée bleu pâle avec une musique relaxante. Une vidéo est projetée sur le mur, elle montre une conversation d’un téléphone mobile entre deux adolescents contents d’une semaine sans école. On apprend au travers de cette discussion que des cours à distance débuteront sous peu. Les messages à ce sujet sont enthousiastes. Lorsque les messages s'arrêtent, une lumière sur le bureau au centre de la pièce avec un casque VR s’allume, indiquant au visiteur le prochain aspect de l’expérience. Le visiteur peut alors s'asseoir au bureau et mettre le casque.
 
----
 
-# 1.1 INT. MATIN CHAMBRE
+
+### 1.1 INT. MATIN CHAMBRE
 
 Le visiteur se retrouve, dans sa chambre, devant un ordinateur portable. L’écran de celle-ci affiche une page Zoam avec un bouton “Appuyer pour se connecter” demandant une interaction avec le visiteur. Une fois ce bouton appuyé, l’interface Zoam affiche une session de classe en ligne en direct avec des webcams ouvertes dont celle du professeur. Celui-ci se présente.
 
----
 
-**PROFESSEUR:** 
+
+### **PROFESSEUR:** 
 
 “Bonjour, bienvenue dans votre cours de français, aujourd’hui, nous verrons ensemble le plan de cours de cette session. Vu cette situation exceptionnelle de la pandémie, les travaux présents cette année ont été révisés afin de s’assurer de ne pas donner une trop lourde charge de travail. Ceci étant dit, n’en profitez pas pour négliger vos responsabilités en pensant qu’un cours à distance voudrait dire plus de relâchement. Vous risqueriez d’être surpris.”
 
----
 
-# 1.2 INT. SOIRÉE SALLE À MANGER
+
+### 1.2 INT. SOIRÉE SALLE À MANGER
 
 Le visiteur est assis devant une table mangeant des céréales, seul. Rien d'étrange ne survient.
 
----
 
-# 1.3 INT. NUIT SALON
+
+### 1.3 INT. NUIT SALON
 
 Le visiteur est assis sur un canapé, les lumières éteintes, en train de regarder la télévision. Sur l’écran de la télévision, il y a une courte animation en boucle de type cartoon de 2 personnages se frappant à chacun leurs tours un coup de marteau sur la tête. Le visiteur s’endort sur le canapé.
 
----
 
-# 2.1 INT MATIN CHAMBRE
+
+### 2.1 INT MATIN CHAMBRE
 
 Le visiteur se retrouve de nouveau devant l’ordinateur portable qui est connecté sur le même cours virtuel précédent. Une feuille est présente à côté de l’ordinateur alors que le professeur explique le travail à effectuer.
 
----
 
-**PROFESSEUR:** 
+
+### **PROFESSEUR:** 
 “Lors de votre parcours au collégial, vous serez amené à grandement utiliser les procédés d'écriture. Cependant, quels sont-ils? Il y a des figures de style, comme l’hyperbole ou la métaphore. Il y a le vocabulaire qui peut être mélioratif, péjoratif, ou même être un champ lexical. Enfin, il y a tant d’autres possibilités, comme le point d’exclamation qui peut exprimer une émotion. Avez-vous tous pris en note ce que j’ai dit? Oui? Alors on continue.”
 
----
 
-# 2.2 INT. SOIRÉE SALLE À MANGER
+
+### 2.2 INT. SOIRÉE SALLE À MANGER
 
 Le visiteur mange encore ses céréales, toujours seul. Toujours rien hors de l’ordinaire ne survient.
 
----
 
-# 2.3 INT. SOIR SALON
+
+### 2.3 INT. SOIR SALON
 
 Le visiteur se retrouve encore une fois assis devant sa télévision. Celle-ci affiche un autre cartoon court en boucle montrant un chat qui ouvre et ferme sa bouche de manière exagérée tout en dansant. Puis se rendort encore une fois sur le sofa.
 
----
 
-# 3.1 INT. MATIN CHAMBRE
+
+### 3.1 INT. MATIN CHAMBRE
 
 Le visiteur se retrouve une nouvelle fois devant son ordinateur portable, mais ne parvient pas à se connecter à son cours virtuel. D’abord, un bouton “Se connecter” s’affiche, après interaction, une animation de chargement est affichée, puis un message d’erreur apparaît avec un bouton “Réessayer ?”. Après 3 tentatives, un bouton “Contacter le professeur ?” se manifeste. Une fois enclenché, une page de chargement apparaît avec l’heure fictive dans le jeu qui accélère légèrement. Après que cette fausse horloge a complété presque 2 heures, le joueur rejoint enfin son cours, mais le professeur venait de finir d’expliquer les consignes pour le prochain travail.
 
----
 
-**PROFESSEUR:**
+
+### **PROFESSEUR:**
 
 “-intenant que tout est dit, vous pouvez commencer à vous préparer à rédiger ce travail qui faudra 30% de la session.”
 
----
 
-# 3.2 INT. SOIRÉE SALLE À MANGER
+
+### 3.2 INT. SOIRÉE SALLE À MANGER
 
 Le visiteur, toujours devant sa table de cuisine, à devant lui une pile de papier et de livres, avec un peu éloigné à sa droite son bol de céréales habituel.
 
----
 
-# 3.3 INT. NUIT SALON
+
+### 3.3 INT. NUIT SALON
 
 Le visiteur se réveille en plein milieu de la nuit, entassé dans ses feuilles et livres sur le sofa, la télévision, qui est sur le canal météo, n’affiche que de la pluie pour toute la semaine. Le joueur se rendort avec son tas de papier.
 
----
 
-# 4.1 INT. MATIN CHAMBRE
+
+### 4.1 INT. MATIN CHAMBRE
 
 Le visiteur se retrouve une fois de plus devant son ordinateur, mais sa chambre commence sérieusement à accumuler une pile de feuilles, pas imposantes, mais observables. À ce point, 2 élèves n’ont plus leurs caméras activées, en laissant sous leur image d’avatar le mot “Déconnecté…”. La voix du professeur commence à devenir inaudible, voire robotique.
 
-**PROFESSEUR:**
+### **PROFESSEUR:**
 
 
 “Cette nouvelle par J̶͙̯̦̪̫̟̆͛͘è̷͓̣̱̙̦́͂̅́̈́͛̈́͂̕͜ǎ̶̭̈́̅̓̐̐̋͆̾̽͘͝n̶̡̳̠̼͚̫̦͉̣̑͑͆̈́͊͂́͒͋̌̾͝͠͝-̵͖̥̞̥̣̟̹͔͖̥̠̪̙͓͂̒͜Ṕ̴̧̙̗̟̙̯̤̠̤̙̣͔͑̈́̽̂ͅȁ̸̧̍͊͊̊̌͂̋͆̓̄͘͘̚ͅử̷̢̞̬̘̲̩͕͕̫̯͓̹̲̈́̂̽͘͝l̶̼̼̔̐̃ͅ ̶̭͉̟͗͂͐͌̀̋͠͝D̴̢̛̳͚͖̙͖̥̈́̏̌̊͗̿ú̸̢͚̪̟̼̗̦̪̫̘̥͚̺͆̅͆̒͂͊̿̉̊͜͝b̵̢̡͇̗̣̬̣͔̦̦̯̫̹̩̪͊̍̑͑́͗̍̔̈́̊͒͛̍͒̚o̵͔͊̋̈̌͐̉̆̽i̵̡̜̬̭̝͓͎͉̰̬̠̪̳̍̈́̎͋̽̂̀͝ͅş̴̝̪͈̤̪͉̬̏͒̈́̓ parle du monde dans le temps des s̴̲͙̙̪̤̞̗̈̄̄̾͂͝ö̴̺̟͔̤̭̮̲̘̻͈͎̳̥͈́́͌̎̓̍̚ͅu̷̧̢͓̣̜͍̳̘̱̽̒̀͊̔̓̾͠v̵̡̡̝͓͓̞̗͙͈͈̟̲͍͕̯̐͑̊̂ȇ̴̞̼̠̖̪̥͎̹͍͎͉̎͛ṙ̷̭̰̫͇̠͔̖̠̣̫̫̙̥͒̀͝͠ͅả̵̧̧̛̼̫̭̹̹̘̖͉͓͎̤͕̣̃̓̊͐̈́͗͐̿̚i̸̖̥̱̣̔͂̀͆̌̈͛̀̒͒̇̚͜n̸͍͓̂s̴̡̤̲͚̰͆́̇͘͝͝ . Son auteur a voulu revendiquer les abus du pouvoir par F̸̨̣̝͗̌̀̉͂̂r̸̯̩̄́̈a̵͍͚̲̼̘͍̻̺͉̰͚͇̜͌̿̆n̸͎̞͊̈̀̒͐͑͒͌̕͠ç̸̨̝̦̞̻̙̍̋̋̀̔̃́͋͛͂͐͠o̷̢̧̧͎͙͓̭͖͍̜̙͆͝i̶̡̦͑͒̾̑̆̇ṣ̸̨̧̡̛̳̭̱̩̰͓͖̹̼̌̀̆̓͐̀̍͊͌́͛ ̷̨̢͇̥͎̫͉͕̤̈̃̀̓̇͂̚͠L̵̳̰͚̣͛̆̾̋͝ĕ̴̛͇̬̭̲͚̾m̵̱͍͕͍̫̬͋͑̕i̴͉̫̩̼̫̲̯̻͚̤̪̬̓̃̍̀͛͝ͅȇ̸̳̻̱͍͓̖̌̑̔͑̒̚ų̶̛̘̓̈́͂̆̀̓̌̏̀͝͝x̴̞͙̲͂̅͋͐, un groupe connu pour...”
 
 
----
 
-# 4.2 INT. SOIRÉE SALLE À MANGER
+
+### 4.2 INT. SOIRÉE SALLE À MANGER
 
 Le visiteur, devant sa table de cuisine, est devant son bol de céréale, qui celui-ci est au centre de la table (trop loin pour l’atteindre) tout en entendant autour de lui (spatialisation sonore) des bruitages faibles de Zoam (bruitage Teams).
 
----
 
-# 4.3 INT. NUIT SALON
+
+### 4.3 INT. NUIT SALON
 
 Le visiteur regarde sa télévision, encore sur le canal météo, annonçant de violents orages pour les prochains jours. Le tout en voyant fixer devant sa face le papier de son travail de 30% qu’il a coulé (gameObject du papier fixé en opacité sur la caméra Unity du joueur). Il finit par se rendormir.
 
----
 
-# 5.1 INT. MATIN CHAMBRE
+
+### 5.1 INT. MATIN CHAMBRE
 
 Le visiteur devant son ordinateur portable, comme d’habitude connecté sur Zoam, mais qui affiche maintenant qu’un peu moins que la moitié des caméras sont désactivées, essaie d’écouter le professeur qui parle maintenant avec un mélange de russe, de japonais et d’allemand. De nouvelles piles de feuilles apparaissent aussi.
 
----
 
-# 5.2 INT. SOIRÉE SALLE À MANGER
+
+### 5.2 INT. SOIRÉE SALLE À MANGER
 
 Le visiteur mange toujours ses fameuses céréales, mais la chaise à laquelle il est assis, la table, et ses céréales sont fixées au plafond.
 
----
 
-# 5.3 INT. NUIT SALON
+
+### 5.3 INT. NUIT SALON
 
 Le visiteur est assis dans son salon regardant la télévision, qui affiche une annonce publicitaire mettant en vedette son professeur rappelant le travail final valant pour 40% de la session.
 
----
 
-# 5.4 UNDEFINED NUIT RÊVE
+
+### 5.4 UNDEFINED NUIT RÊVE
 
 Le visiteur est plongé dans un couloir sans fin rempli de feuilles de notes désastreuses de styles et formes variés. Les murs prennent des formes étranges comme pour se refermer peu à peu sur lui.
 
----
 
-# 5.5 INT. NUIT SALON
+
+### 5.5 INT. NUIT SALON
 
 Le visiteur se réveille au milieu de la nuit assis sur le sofa, devant la télé diffusant le cartoon des deux personnages qui se frappent avec un marteau, mais les deux personnages se transforment en son professeur. Puis se rendort pour le reste de la nuit.
 
----
 
-# 6.1 INT. MATIN CHAMBRE
+
+### 6.1 INT. MATIN CHAMBRE
 
 Le visiteur se réveille de son lit et voit plusieurs piles de feuilles dans sa chambre en train de s'agrandir. Après quelques secondes, on cligne des yeux et elles disparaissent. À ce moment, le cellulaire du visiteur, à côté de lui, émet une sonnerie (l’invitant à le prendre). Il remarque que le cellulaire affiche que tous ses amis ne se sont plus connectés depuis très longtemps. Après un moment, l’ordinateur portable émet une petite musique indiquant que le cours est sur le point de commencer. Le visiteur est placé devant l’ordinateur, est observé sur l’interface Zoam, qu’à l’exception de lui-même et du prof, tous les autres ont leurs caméras désactivées.
 
----
 
-# 6.2 INT ??? CHAMBRE/SALLE À MANGER/SALON
+
+### 6.2 INT ??? CHAMBRE/SALLE À MANGER/SALON
 
 Le visiteur se déplace avec son laptop de scène en scène, de plus en plus rapidement. Plusieurs éléments paranormaux sont présents dans chaque scène alors qu’elles se referment peu à peu sur le visiteur, comme le corridor. Un bouton “Se Déconnecter” clignote dans l’écran de l’ordinateur. Si le visiteur ne clique pas sur le bouton après une certaine période de temps, une animation où le bouton est cliqué joue. Lorsque le bouton est cliqué, on passe en scène 6.3 le son de battement de cœur grave de William joue de plus en plus vite lors de la scène 6.2.
 
----
 
-# 6.3 TENEBRE VIDE
+
+### 6.3 TENEBRE VIDE
 
 L’environnement du visiteur est complètement noir est inexistant, à l’exception de l’ordinateur portable qui est la seule chose visible de l’environnement.
 
----
 
-# 7.1 INT APRÈS-MIDI GRAND STUDIO
+
+### 7.1 INT APRÈS-MIDI GRAND STUDIO
 
 Lorsque le casque montre l’ordinateur portable seul, les lumières extérieures deviennent rouges, alternant de vif à foncer. Sur le(s) mur(s), on aperçoit divers témoignages et articles de journaux apparaître l’un après l’autre. Une conversation sur un téléphone mobile est présente, les mêmes adolescents parlent d’un nouveau variant faisant surface, comment la situation ne semble pas s'améliorer. On finit sur une note plus sombre alors que le casque VR est éclairé à nouveau, à côté de piles de travaux. Si on remet le casque, on peut voir le message “Recommencer?”(ça peut être autre chose) L’expérience se termine.
 
----
 
-# Storyboard
 
-![Image storyboard 1](medias/storyboard-1.png)
+## Storyboard
 
-![Image storyboard 2](medias/storyboard-2.png)
+![Image storyboard 1](medias/storyboard-new-1.png)
 
-![Image storyboard 3](medias/storyboard-3.png)
+![Image storyboard 2](medias/storyboard-new-2.png)
 
-# Allié pour modelisation 3D
+![Image storyboard 3](medias/storyboard-new-3.png)
+
+## Allié pour modelisation 3D
 
 ![Utilisation des ressources de Adobe Dimension #1](medias/3d-source-1.png)
 
@@ -346,7 +332,7 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 
 * [Mixcraft 9 Pro Studio](https://acoustica.com/store/mixcraft-9-pro-studio)
 * [Unity 2019 lts ou similaire](https://unity.com/)
-* [Logiciels Adobe (After Effects, Photoshop, etc)](https://www.adobe.com/ca_fr/)
+* [Logiciels Adobe (After Effects, Photoshop, Dimension, etc)](https://www.adobe.com/ca_fr/)
 * 
 * [Max 8](https://cycling74.com/products/max)
 * [Open stage control](https://openstagecontrol.ammd.net/)
@@ -377,8 +363,6 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_capture_20210113.PNG)
-
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
 
 
 ## Échéancier global

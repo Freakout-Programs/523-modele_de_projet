@@ -53,40 +53,40 @@ Réaliser le storyboard ce lundi et remettre un GitHub plus à jour pour la sema
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+Cela a été une semaine chargé en béton indestructible. En peu de temps, le scénario court, le scénario plan par plan, le Moodboard, le Storyboard, ainsi que le schéma de plantation ont été réalisés. En plus, d'avoir commencé quelques éléments du reste de la préproduction et d'avoir corrigé quelques erreurs soulignées par les professeurs.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Trouver comment économiser du temps en modélisation 3D pour concentrer mon énergie ailleurs](medias/3d-source-1.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Tous les éléments de la section de la préproduction (Intention, synopsis, scénario court, scénario plan par plan, Moodboard et Storyboard) ont été réalisés dans le temps préétablis. Maintenant, il ne reste qu'à finir ce qui reste.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Compléter la préproduction au complet avec tous les correctifs relevés mercredi dernier, enfin de sa remise finale ce mercredi. Une bonne organisation et communication d'équipe seront requises afin d'y parvenir.
 
 ---
 ## Semaine 3 
