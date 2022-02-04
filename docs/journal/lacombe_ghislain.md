@@ -59,7 +59,7 @@ Finir le storyboard, faire la liste des matériaux nécessaires et schéma de br
 - Création du schéma de branchement
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-N/A
+![Mon image temporaire](medias/scenarioplan.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
