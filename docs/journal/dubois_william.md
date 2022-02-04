@@ -56,7 +56,7 @@ Réaliser le storyboard ce lundi et remettre un GitHub plus à jour pour la sema
 Cela a été une semaine chargé en béton indestructible. En peu de temps, le scénario court, le scénario plan par plan, le Moodboard, le Storyboard, ainsi que le schéma de plantation ont été réalisés. En plus, d'avoir commencé quelques éléments du reste de la préproduction et d'avoir corrigé quelques erreurs soulignées par les professeurs.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Trouver comment économiser du temps en modélisation 3D pour concentrer mon énergie ailleurs](medias/3d-source-1.png)
+![Trouver comment économiser du temps en modélisation 3D pour concentrer mon énergie ailleurs](medias/dubois-william-fier-semaine-02.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
