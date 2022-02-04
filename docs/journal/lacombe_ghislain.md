@@ -54,40 +54,42 @@ Finir le storyboard, faire la liste des matériaux nécessaires et schéma de br
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+-Création du storyboard
+-Liste des matériaux physiques requis
+-Création du schéma de branchement
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+N/A
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+  La planification du projet est respectée.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Ajouter des liens vers des ambiances sonores dans le moodboard, création des logiciels requis, des ressources humaines et des textures nécessaire au vr.
 
 ---
 ## Semaine 3 
