@@ -54,9 +54,9 @@ Finir le storyboard, faire la liste des matériaux nécessaires et schéma de br
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
--Création du storyboard
--Liste des matériaux physiques requis
--Création du schéma de branchement
+- Création du storyboard
+- Liste des matériaux physiques requis
+- Création du schéma de branchement
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 N/A
