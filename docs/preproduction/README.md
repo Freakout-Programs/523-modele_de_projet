@@ -57,7 +57,7 @@ Enfin, des témoignages/articles de journal sont visibles sur les murs pour sens
 
 ![Moodboard / image 1 du salon](medias/salon-1-resize.png)
 
-![Moodboard / image 2 du salon](medias/salon-2-resize.png)
+![Moodboard / image 2 du salon](medias/salon-2.png)
 
 ![Moodboard / image 3 du salon](medias/salon-3-resize.png)
 [Lien vers la vidéo YouTube](https://www.youtube.com/watch?v=-T4bmlCQS9c#t=2m58s)
