@@ -45,37 +45,37 @@ Enfin, des témoignages/articles de journal sont visibles sur les murs pour sens
 
 ![Moodboard / image 1 de la chambre](medias/chambre-1.png)
 
-![Moodboard / image 2 de la chambre](medias/chambre-2.png)
+![Moodboard / image 2 de la chambre](medias/chambre-2-resize.png)
 
 ### Salle à manger
 
-![Moodboard / image 1 de salle à manger](medias/salle-a-manger-1.png)
+![Moodboard / image 1 de salle à manger](medias/salle-a-manger-03-resize.png)
 
 ![Moodboard / image 2 de salle à manger](medias/salle-a-manger-2.jpg)
 
 ### Salon
 
-![Moodboard / image 1 du salon](medias/salon-1.png)
+![Moodboard / image 1 du salon](medias/salon-1-resize.png)
 
-![Moodboard / image 2 du salon](medias/salon-2.png)
+![Moodboard / image 2 du salon](medias/salon-2-resize.png)
 
-![Moodboard / image 3 du salon](medias/salon-3.png)
+![Moodboard / image 3 du salon](medias/salon-3-resize.png)
 [Lien vers la vidéo YouTube](https://www.youtube.com/watch?v=-T4bmlCQS9c#t=2m58s)
 
 ### Matériel (Mesh)
 
-![Moodboard / site Web de référence pour source de matériel pour Mesh 3D](medias/materiel-mesh.png)
+![Moodboard / site Web de référence pour source de matériel pour Mesh 3D](medias/materiel-mesh-resize.png)
 
 ### Images angoissantes
 
-![Moodboard / image angoissante 1](medias/angoisse-1.png)
+![Moodboard / image angoissante 1](medias/angoisse-1-resize.png)
 [Lien YouTube vers cette vidéo](https://www.youtube.com/watch?v=NoJlVALDSGM#t=17m12s)
 
-![Moodboard / image angoissante 2](medias/angoisse-2.png)
+![Moodboard / image angoissante 2](medias/angoisse-2-resize.png)
 
-![Moodboard / image angoissante 3](medias/angoisse-3.png)
+![Moodboard / image angoissante 3](medias/angoisse-3-resize.png)
 
-![Moodboard / image angoissante 4](medias/angoisse-4.png)
+![Moodboard / image angoissante 4](medias/angoisse-4-resize.png)
 
 ![Moodboard / image angoissante 5](medias/mouton-red.png)
 
@@ -313,25 +313,30 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-	* 2 haut-parleurs actifs de 4"
-	* 2 fils XLR 3 conducteurs de 15' (M->F)
-	* Interface audio USB disposant 2 sorties
+    * 2 haut-parleurs actifs de 4"
+    * 2 fils XLR 3 conducteurs de 15' (M->F)
+    * Interface audio USB disposant 2 sorties 
+
 * Vidéo
-	* 1 projecteur vidéo lentille standard
-	* 1 système d'accrochage
-	* 1 kinect
+    * 1 projecteur vidéo lentille standard
+    * 1 système d'accrochage
+    * 1 kinect
+
 * Lumière
-	* 3 lumière LED RGBAW DMX
-	* 3 fils XLR 3 conducteurs de 20'
+    * 3 lumière LED RGBAW DMX
+    * 3 fils XLR 3 conducteurs de 20'
+
 * Électricité
-	* 2 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 2 cordon IEC (pour l'alimentation des haut-parleurs)
+
 * Réseau
-	* 4 fils cat6a de 15"
-	* Switch poe 5 ports
+    * 4 fils cat6a de 15"
+    * Switch poe 5 ports
+
 * Ordinateur
-	* 1 ordinateur portable (performant)
+    * 1 ordinateur portable (performant)
 * Autre
-	* Casque Vr Oculus
+    * Casque VR Oculus
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
