@@ -7,7 +7,10 @@
     - [Synopsis](#Synopsis)
     - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
     - [Scénario, scénarimage ou document audio/visuel](#Scénario,-scénarimage-ou-document-audio/visuel)
-2. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
+2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
+    - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
+    - [Univers artistique des éléments](#Univers-artistique-des-éléments-centraux)
+3. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
     - [Matériaux requis](#Matériaux-de-scénographie-requis)
     - [Équipements requis](#Équipements-requis)
@@ -15,7 +18,7 @@
     - [Ressources humaines requises](#Ressources-humaines-requises)
     - [Ressources spatiales requises (rangement et locaux)](#Ressources-spatiales-requises-(rangement-et-locaux))
     - [Contraintes techniques et potentiels problèmes de production](#Contraintes-techniques-et-potentiels-problèmes-de-production)
-3. [Planification de la production d'un prototype (budget et étapes de réalisation)](#Planification-de-la-production-(budget-et-étapes-de-réalisation))
+4. [Planification de la production d'un prototype (budget et étapes de réalisation)](#Planification-de-la-production-(budget-et-étapes-de-réalisation))
     - [Budget prévisionnel](#Budget-prévisionnel)
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
@@ -271,6 +274,21 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 
 ![Utilisation des ressources de Adobe Dimension #3](medias/3d-source-3.png)
 
+# Contenu multimédia à intégrer
+## Inventaire du contenu multimédia
+
+- 15 icônes de navigation (pour les utilisateur-trices)
+- 8 montages d'image
+- 3 paysages sonores
+- 5 vidéos d'animation 2D
+- 3 textes poétiques
+- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
+- ...
+
+Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
+
+## Univers artistique des éléments
+Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
