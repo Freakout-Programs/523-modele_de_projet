@@ -402,7 +402,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-
+Aucune dépense ne sera nécessaire afin de réaliser ce projet.
 
 
 ## Échéancier global
