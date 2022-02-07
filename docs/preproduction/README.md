@@ -268,11 +268,11 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 
 ## Allié pour modelisation 3D
 
-![Utilisation des ressources de Adobe Dimension #1](medias/3d-source-1.png)
+![Utilisation des ressources de Adobe Dimension #1](medias/3d-source-1-resize.png)
 
-![Utilisation des ressources de Adobe Dimension #2](medias/3d-source-2.png)
+![Utilisation des ressources de Adobe Dimension #2](medias/3d-source-2-resize.png)
 
-![Utilisation des ressources de Adobe Dimension #3](medias/3d-source-3.png)
+![Utilisation des ressources de Adobe Dimension #3](medias/3d-source-3-resize.png)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
@@ -300,7 +300,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png)
+
 
 ## Matériel de scénographie requis
 
@@ -351,7 +351,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [Mixcraft 9 Pro Studio](https://acoustica.com/store/mixcraft-9-pro-studio)
 * [Unity 2019 lts ou similaire](https://unity.com/)
 * [Logiciels Adobe (After Effects, Photoshop, Dimension, etc)](https://www.adobe.com/ca_fr/)
-* 
+* [Maya 2020](https://www.autodesk.com/products/maya/overview)
 * [Max 8](https://cycling74.com/products/max)
 * [Open stage control](https://openstagecontrol.ammd.net/)
 
