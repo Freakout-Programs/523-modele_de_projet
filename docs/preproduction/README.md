@@ -303,6 +303,18 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 - 1 pile de livres
 - 1 environnement dimensionnelle  de feuille sans fin
 
+##Sons:
+- battement de coeur
+- ambiance joyeuse
+- ambiance malaisante
+- voix du professeur
+- bruit du logiciel Zoam (click et notifications)
+- sons de cartoon:
+    - bruit d’un marteau (bonk)
+    - bruit  d’une bouche qui ouvre et ferme (pop)
+- voix du présentateur météo
+- bruit de feuilles de papier (piles qui tombent, feuille s’envole)
+
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
