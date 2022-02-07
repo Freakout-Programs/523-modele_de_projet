@@ -313,25 +313,25 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-		* 2 haut-parleurs actifs de 4"
-		* 2 fils XLR 3 conducteurs de 15' (M->F)
-		* Interface audio USB disposant 2 sorties
+	* 2 haut-parleurs actifs de 4"
+	* 2 fils XLR 3 conducteurs de 15' (M->F)
+	* Interface audio USB disposant 2 sorties
 * Vidéo
-		* 1 projecteur vidéo lentille standard
-		* 1 système d'accrochage
-		* 1 kinect
+	* 1 projecteur vidéo lentille standard
+	* 1 système d'accrochage
+	* 1 kinect
 * Lumière
-		* 3 lumière LED RGBAW DMX
-		* 3 fils XLR 3 conducteurs de 20'
+	* 3 lumière LED RGBAW DMX
+	* 3 fils XLR 3 conducteurs de 20'
 * Électricité
-		* 2 cordon IEC (pour l'alimentation des haut-parleurs)
+	* 2 cordon IEC (pour l'alimentation des haut-parleurs)
 * Réseau
-		* 4 fils cat6a de 15"
-		* Switch poe 5 ports
+	* 4 fils cat6a de 15"
+	* Switch poe 5 ports
 * Ordinateur
-		* 1 ordinateur portable (performant)
+	* 1 ordinateur portable (performant)
 * Autre
-		* Casque Vr Oculus
+	* Casque Vr Oculus
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
