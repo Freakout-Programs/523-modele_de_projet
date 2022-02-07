@@ -306,44 +306,32 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
-* Cyclorama
+* Bureau
+* Chaise de bureau
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
-
+		* 2 haut-parleurs actifs de 4"
+		* 2 fils XLR 3 conducteurs de 15' (M->F)
+		* Interface audio USB disposant 2 sorties
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
-
+		* 1 projecteur vidéo lentille standard
+		* 1 système d'accrochage
+		* 1 kinect
 * Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
-
+		* 3 lumière LED RGBAW DMX
+		* 3 fils XLR 3 conducteurs de 20'
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
-
+		* 2 cordon IEC (pour l'alimentation des haut-parleurs)
 * Réseau
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
-
+		* 4 fils cat6a de 15"
+		* Switch poe 5 ports
 * Ordinateur
-    * 1 ordinateur portable 
-    
+		* 1 ordinateur portable (performant)
 * Autre
-    * Tout autre élément pertinant
+		* Casque Vr Oculus
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
@@ -359,16 +347,14 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * TTP, location de matériel
 * Professeurs de la synthèse, accompagnement avec notre projet
+* SAA, Donnée sur la Covid-19
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * Projection vidéo dans le cyclo
     * Capatation vidéo
 
-* Petit studio
-    * Enregsitrement audio
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
