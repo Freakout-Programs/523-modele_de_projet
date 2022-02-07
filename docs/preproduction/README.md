@@ -277,13 +277,32 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 15 icônes de navigation (pour les utilisateur-trices)
-- 8 montages d'image
-- 3 paysages sonores
-- 5 vidéos d'animation 2D
-- 3 textes poétiques
-- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
-- ...
+- 2 interfaces utilisateurs
+- 1 bruitage de battement de coeur
+- 6 vidéos d'animation 2D (cartoon)
+## Modélisation 3D:
+- 1 Environnement total de la maison
+- 1 Porte
+- 1 Meuble de rangement
+- 1 Lit
+- 1 Tapis
+- 1 Table de chevet
+- 1 Chaise
+- 1 Bureau
+- 1 feuille seule
+- 1 Table de cuisine
+- 1 Bol de céréale
+- 1 Frigo
+- 1 Comptoir de cuisine en L avec 1 four, 1 évier, 1 rack à vaisselle, des armoires et des étagères
+- 1 Meuble Télé
+- 1 Télé
+- 1 Sofa
+- 1 Photo de famille
+- 1 pile de feuilles
+- 1 Cellulaire
+- 1 pile de livres
+- 1 environnement dimensionnelle  de feuille sans fin
+
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
@@ -371,7 +390,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget_capture_20210113.PNG)
+
 
 
 ## Échéancier global
@@ -379,9 +398,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 *Dates importantes :*
-- Première itération : lundi x novembre
-- Prototype finale : lundi x décembre
-- Présentation des projets devant public : jeudi 25 mars (soir)
+- Préproduction finale : mercredi 9 février
+- 
+- Début et fin de la diffusion : du mardi 22 mars au lundi 28 mars
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
