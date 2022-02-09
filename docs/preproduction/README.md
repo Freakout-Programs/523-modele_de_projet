@@ -330,6 +330,24 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 
 ![Référence de création 3D #5](medias/ref-3d-5.png)
 
+## Textures:
+
+- Plancher en bois
+- Tissus de meuble (lit et ses draps, sofa, siège de chaise)
+- Bois de meuble (sofa, bureau, armoires et étagères de cuisines, meuble télé, table de chevet)
+- Métal (Évier, frigo et four)
+- Mur peinturé blanc
+- Vitre de fenêtre
+- Bol en céramique/plastique
+- Plancher en tuile de cuisine
+- Faux cadre pour photo de famille
+- Télévision
+- Cellulaire et laptop
+- Portes en bois
+- Livres et feuilles de travail
+- Tapis
+- Dimension de feuilles plan 5.4
+
 ## Sons:
 - battement de coeur
 - ambiance joyeuse
