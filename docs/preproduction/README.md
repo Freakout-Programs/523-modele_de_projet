@@ -38,6 +38,17 @@ Enfin, des témoignages/articles de journal sont visibles sur les murs pour sens
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
+### Moodboard Ambiance Sonore
+
+#### Ambiance avant de mettre le casque vr:
+https://www.youtube.com/watch?v=VgbtQJHCtA4
+3:41
+https://www.youtube.com/watch?v=lr607VaR22c
+
+#### Ambiance après avoir retiré le casque vr:
+https://www.youtube.com/watch?v=AjgrI2KmafY
+
+https://www.youtube.com/watch?v=zc8h_GJT2M8
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
 
@@ -331,7 +342,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement 
 
-
+ ![Schéma de branchement](medias/schéma_de_branchement.png)
 
 ## Matériel de scénographie requis
 
