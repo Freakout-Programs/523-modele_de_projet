@@ -434,7 +434,11 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Incertitude sur le fonctionnement de la communication entre Max 8 et Unity | Rencontrer Thomas pour en parler sur ce sujet. | N/A |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|  |  | N/A |
+| Nous n'avons jamais utilisé de kinect | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions démmarer la vidéo de départ manuellement |
+| La connection du casque vr à Max8 pourrait ne pas fonctionner. | Notes de cours, expérimentation durant la session | Sinon, nous pourrions démmarer les changements manuellement |
+| Les changements de pièces en vr pourraient ne pas fonctionner. | Expérimentation durant la session | N/A |
+| Les vidéos 2D pourraient ne pas fonctionner sur les textures. | Expérimentation durant la session | N/A |
+| Le changement de vidéos 2D sur le laptop en vr | Notes de cours, expérimentation durant la session | N/A |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
