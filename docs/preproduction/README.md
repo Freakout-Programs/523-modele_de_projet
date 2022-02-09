@@ -408,8 +408,17 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
-|                                                  |                                                       |                                                                                              |
+| Je n'ai jamais fait de projet VR dans Unity en XR | Suivre les vidéos directives de Thomas de son cours de réalité virtuelle de la dernière session. | N/A |
+|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Je n'ai jamais programmé de collision en réalité virtuelle dans Unity | Suivre les vidéos directives de Thomas de son cours de réalité virtuelle de la dernière session. | N/A |
+|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| La téléportation de la position de la caméra VR dans l'environnement Unity n'a pas été testée | La testée. | N/A |
+|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Je n'ai jamais fait de GUI dans Unity | Tutoriels vidéos de Thomas et d'autres personnes sur YouTube. | N/A |
+|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Incertitude sur le fonctionnement de la communication entre Max 8 et Unity | Rencontrer Thomas pour en parler sur ce sujet. | N/A |
+|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|  |  | N/A |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
