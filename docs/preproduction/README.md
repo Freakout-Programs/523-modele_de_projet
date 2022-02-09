@@ -291,6 +291,7 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 - 2 interfaces utilisateurs
 - 1 bruitage de battement de coeur
 - 6 vidéos d'animation 2D (cartoon)
+
 ## Modélisation 3D:
 - 1 Environnement total de la maison
 - 1 Porte
@@ -313,6 +314,21 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 - 1 Cellulaire
 - 1 pile de livres
 - 1 environnement dimensionnelle  de feuille sans fin
+- 1 boite de lait
+- 1 boite de conserve
+- 1 bouteille de jus
+
+### Quelques références:
+
+![Référence de création 3D #1](medias/ref-3d-1.png)
+
+![Référence de création 3D #2](medias/ref-3d-2.png)
+
+![Référence de création 3D #3](medias/ref-3d-3.png)
+
+![Référence de création 3D #4](medias/ref-3d-4.png)
+
+![Référence de création 3D #5](medias/ref-3d-5.png)
 
 ## Sons:
 - battement de coeur
