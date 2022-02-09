@@ -422,7 +422,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 *Dates importantes :*
 - Préproduction finale : mercredi 9 février
-- 
+- Début idéal de l'étape de production : lundi 21 février
+- Début maximum de l'étape de production (si délai) :  lundi 28 février
 - Début et fin de la diffusion : du mardi 22 mars au lundi 28 mars
 
 ## Liste des tâches à réaliser
