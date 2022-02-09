@@ -371,9 +371,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Plantation 
-Vieux:
+####Vieux:
 ![Plan de salle version beta](medias/plantation-1.png)
-Nouveau:
+####Nouveau:
 ![Plan de salle version alpha](medias/planV2.png)
 
 ### Schéma de branchement 
