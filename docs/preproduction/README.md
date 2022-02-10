@@ -401,6 +401,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 1 projecteur vidéo lentille standard
     * 1 système d'accrochage
     * 1 kinect
+    * 1 Extender HDMI
 
 * Lumière
     * 3 lumière LED RGBAW DMX
