@@ -125,6 +125,7 @@ N/A
 
 ### Défis pour la prochaine semaine
 Remettre finalement la préproduction dans les temps pour mercredi, et commencer mes prototypes que je me suis fixé de faire dans les plus brefs délais avant de commencer la production.
+
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
