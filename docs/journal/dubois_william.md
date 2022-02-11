@@ -91,40 +91,40 @@ Compléter la préproduction au complet avec tous les correctifs relevés mercre
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+Création de la section des médias à intégrer (créer), de la section des contraintes potentielles et des solutions envisagées, un échéancier, plusieurs autres sections et quelques corrections de la préproduction enfin de sa présentation aux professeurs.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Début de la configuration du casque VR sur l'ordinateur](medias/fier-semaine-3-wd.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Toutes les tâches ont été réalisées dans les délais en s'assurant de ne rien oublier grâce à la création d'issues de tous les éléments à compléter dans les temps.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Remettre finalement la préproduction dans les temps pour mercredi, et commencer mes prototypes que je me suis fixé de faire dans les plus brefs délais avant de commencer la production.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
