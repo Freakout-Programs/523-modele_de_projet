@@ -89,44 +89,48 @@ N/A
 N/A
 
 ### Défis pour la prochaine semaine
-Ajouter des liens vers des ambiances sonores dans le moodboard, création des logiciels requis, des ressources humaines et des textures nécessaire au vr.
+Ajouter des liens vers des ambiances sonores dans le moodboard, création de listes des logiciels requis, des ressources humaines et des textures nécessaire au vr.
 
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Choisi des ambiances sonores pour le moodboard
+- Création de la liste des logiciels requisdes, ressources humaines et textures nécessaire au vr
+- Mise à jour du devis technique
+- Début de prototypage
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Travail sur le contrôle des lumières](medias/travaux_lumiere.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ La planification du projet est plus rapide qu'expectée.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+Finir le prototypage, mettre à jour le schéma de branchement
 
 ---
 ## Semaine 4
