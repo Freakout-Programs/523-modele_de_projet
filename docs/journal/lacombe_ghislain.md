@@ -95,7 +95,7 @@ Ajouter des liens vers des ambiances sonores dans le moodboard, création de lis
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 - Choisi des ambiances sonores pour le moodboard
-- Création de la liste des logiciels requisdes, ressources humaines et textures nécessaire au vr
+- Création de la liste des logiciels requises, ressources humaines et textures nécessaire au vr
 - Mise à jour du devis technique
 - Début de prototypage
 
