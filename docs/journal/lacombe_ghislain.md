@@ -89,13 +89,13 @@ N/A
 N/A
 
 ### Défis pour la prochaine semaine
-Ajouter des liens vers des ambiances sonores dans le moodboard, création de listes des logiciels requis, des ressources humaines et des textures nécessaire au vr.
+Ajouter des liens vers des ambiances sonores dans le moodboard, création de listes des logiciels requis, des ressources humaines et des textures nécessaires au vr.
 
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 - Choisi des ambiances sonores pour le moodboard
-- Création de la liste des logiciels requises, ressources humaines et textures nécessaire au vr
+- Création de la liste des logiciels requis, ressources humaines et textures nécessaires au vr
 - Mise à jour du devis technique
 - Début de prototypage
 
