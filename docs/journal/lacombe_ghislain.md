@@ -97,6 +97,7 @@ Ajouter des liens vers des ambiances sonores dans le moodboard, création de lis
 - Choisi des ambiances sonores pour le moodboard
 - Création de la liste des logiciels requis, ressources humaines et textures nécessaires au vr
 - Mise à jour du devis technique
+- Création d'une nouvelle plantation de projet
 - Début de prototypage
 
 ### Image d'une réalisation dont tu es la ou le plus fier
