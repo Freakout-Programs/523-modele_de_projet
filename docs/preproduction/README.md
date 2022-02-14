@@ -363,9 +363,6 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
-## Univers artistique des éléments
-Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
-
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 > Insérer plans, documents et schémas pertinents dans cette section.  
@@ -427,19 +424,12 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [Logiciels Adobe (After Effects, Photoshop, Dimension, etc)](https://www.adobe.com/ca_fr/)
 * [Maya 2020](https://www.autodesk.com/products/maya/overview)
 * [Max 8](https://cycling74.com/products/max)
-* [Open stage control](https://openstagecontrol.ammd.net/)
 
 ## Ressources humaines requises
 
 * TTP, location de matériel
 * Professeurs de la synthèse, accompagnement avec notre projet
 * SAA, Donnée sur la Covid-19
-
-## Ressources spatiales requises (rangement et locaux)
-> Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
-
-* Grand studio
-    * Capatation vidéo
 
 
 ## Contraintes techniques et potentiels problèmes de production
@@ -465,7 +455,7 @@ Aucune dépense ne sera nécessaire afin de réaliser ce projet.
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
+https://github.com/Freakout-Programs/Distorsion-collective/milestones
 
 *Dates importantes :*
 - Préproduction finale : mercredi 9 février
@@ -475,10 +465,10 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
+https://github.com/Freakout-Programs/Distorsion-collective/projects/1?card_filter_query=is%3Aopen
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues
+https://github.com/Freakout-Programs/Distorsion-collective/issues
 
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
@@ -493,8 +483,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/Freakout-Programs/Distorsion-collective/issues/assigned/williamcdubois  
+https://github.com/Freakout-Programs/Distorsion-collective/projects/1?card_filter_query=assignee%3Awilliamcdubois
 
 **Ghislain Lacombe**
 - Comité Technique et coordination technique (suivi du devis technique);
@@ -504,11 +494,11 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Création des paysages sonores sonores;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/Freakout-Programs/Distorsion-collective/issues/assigned/GhislainLacombe
+https://github.com/Freakout-Programs/Distorsion-collective/projects/1?card_filter_query=assignee%3Aghislainlacombe
 
 **Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
+https://github.com/Freakout-Programs/Distorsion-collective/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
