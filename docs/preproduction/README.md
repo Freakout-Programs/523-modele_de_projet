@@ -406,9 +406,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
     * 2 cordon IEC (pour l'alimentation des haut-parleurs)
 
 * Réseau
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
-
+    * 4 câbles Ethernet
 * Ordinateur
     * 1 ordinateur portable (performant)
 * Autre
