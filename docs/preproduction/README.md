@@ -90,7 +90,7 @@ https://www.youtube.com/watch?v=zc8h_GJT2M8
 
 ### Projet vidéo
 
-[Référence vidéo d'un projet d'équipe dans le cadre du cours Conception vidéo lors de la session hiver 2019](https://youtu.be/mi1dX7AC9r4)
+[Référence vidéo d'un projet d'équipe dans le cadre du cours Conception vidéo lors de la session hiver 2019](https://youtu.be/8uYRs64LOHw)
 
 ### Voix robotisées
 
