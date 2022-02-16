@@ -31,7 +31,7 @@ L’expérience commence par la perspective d’un élève qui va commencer ses 
 
 Les complications commencent à partir du moment où le professeur se présente, que les travaux s’accumulent, que la personne vit un sentiment d’isolement, et le tout dans une boucle sans fin qui s’accélère périodiquement et qui l’affecte mentalement. À la fin, par un débordement d’anxiété, l’interacteur est appelé à se déconnecter. Se faisant, toute la scène devient noire à l'exception de l’ordinateur (éteint) qui reste toujours visible. 
 
-Enfin, des témoignages/articles de journal sont visibles sur les murs pour sensibiliser le public au stress vécu par un nombre important d’étudiants durant la covid-19.
+Enfin, des témoignages/articles de journaux sont visibles sur les murs pour sensibiliser le public au stress vécu par un nombre important d’étudiants durant la covid-19.
 
 
 ## Tableau d'ambiance (*moodboard*)
@@ -104,7 +104,7 @@ Le visiteur rentre dans une pièce colorée bleu pâle avec une musique relaxant
 
 -----------------------------
 
-Une fois que le visiteur a enfilé le casque, le visiteur se retrouve assis sur une chaise avec devant lui un bureau tenant un ordinateur portable qui diffuse une classe scolaire Zoam (Zoom/Team fictive). Le professeur fictif de cette classe se présente et explique les travaux à faire prochainement. Après un court moment, une transition au noir fade-in fade-out amène le visiteur assis sur le sofa dans le salon regardant les nouvelles sur la télévision. Après une autre transition au noire, le visiteur se réveille le matin, déjeune dans la cuisine, assiste à son cours en ligne devant son ordinateur portable dans sa chambre, écoute la télévision le soir, se rendort. À partir de là, une boucle temporelle répétitive s’observe. Après quelques boucles, le chaos commence progressivement à prendre forme. Tout en accélérant périodiquement la vitesse de délai entre les transitions de la boucle, la voix du professeur commence à devenir robotique, des piles de feuilles de travail se remplissent davantages dans la chambre, les caméras des élèves de la classe virtuelle se désactivent graduellement par un avatar avec le texte “Déconnecté”, les textures des toasts du visiteur sont visuellement des feuilles d’examen. Puis à un certain point, ce chaos amènera même le professeur à enseigner les pieds au plafond, de parler dans des langues étrangères, et même à apparaître et à donner son cours dans la chambre du visiteur. À cette phase, une option “Se Déconnecter” apparaît sur l’écran de l’ordinateur portable. Quand le joueur appuie sur cette option, tout le chaos prend fin, visuellement comme à l’oreille, et la pièce devient subitement noire, et la seule chose qui reste visible est l’ordinateur portable.
+Une fois que le visiteur a enfilé le casque, le visiteur se retrouve assis sur une chaise avec devant lui un bureau tenant un ordinateur portable qui diffuse une classe scolaire Zoam (Zoom/Team fictive). Le professeur fictif de cette classe se présente et explique les travaux à faire prochainement. Après un court moment, une transition au noir fade-in fade-out amène le visiteur assis sur le sofa dans le salon regardant les nouvelles sur la télévision. Après une autre transition au noire, le visiteur se réveille le matin, déjeune dans la cuisine, assiste à son cours en ligne devant son ordinateur portable dans sa chambre, écoute la télévision le soir, se rendort. À partir de là, une boucle temporelle répétitive s’observe. Après quelques boucles, le chaos commence progressivement à prendre forme. Tout en accélérant périodiquement la vitesse de délai entre les transitions de la boucle, la voix du professeur commence à devenir robotique, des piles de feuilles de travail se remplissent d'avantages dans la chambre, les caméras des élèves de la classe virtuelle se désactivent graduellement par un avatar avec le texte “Déconnecté”, les textures des toasts du visiteur sont visuellement des feuilles d’examen. Puis à un certain point, ce chaos amènera même le professeur à enseigner les pieds au plafond, de parler dans des langues étrangères, et même à apparaître et à donner son cours dans la chambre du visiteur. À cette phase, une option “Se Déconnecter” apparaît sur l’écran de l’ordinateur portable. Quand le joueur appuie sur cette option, tout le chaos prend fin, visuellement comme à l’oreille, et la pièce devient subitement noire, et la seule chose qui reste visible est l’ordinateur portable.
 
 -----------------------------
 
@@ -120,7 +120,7 @@ Le visiteur rentre dans une pièce colorée bleu pâle avec une musique relaxant
 
 ### 1.1 INT. MATIN CHAMBRE
 
-Le visiteur se retrouve, dans sa chambre, devant un ordinateur portable. L’écran de celle-ci affiche une page Zoam avec un bouton “Appuyer pour se connecter” demandant une interaction avec le visiteur. Une fois ce bouton appuyé, l’interface Zoam affiche une session de classe en ligne en direct avec des webcams ouvertes dont celle du professeur. Celui-ci se présente.
+Le visiteur se retrouve, dans sa chambre, devant un ordinateur portable. L’écran de celle-ci affiche une page Zoam avec un bouton “Appuyer pour se connecter” demandant une interaction avec le visiteur. Une fois ce bouton appuyé, l’interface Zoam affiche une session de classe en ligne en direct avec des webcams ouvertes, dont celle du professeur. Celui-ci se présente.
 
 
 
@@ -173,7 +173,7 @@ Le visiteur se retrouve une nouvelle fois devant son ordinateur portable, mais n
 
 ### **PROFESSEUR:**
 
-“-intenant que tout est dit, vous pouvez commencer à vous préparer à rédiger ce travail qui faudra 30% de la session.”
+“-intenant que tout est dit, vous pouvez commencer à vous préparer à rédiger ce travail qu'il faudra 30% de la session.”
 
 
 
@@ -251,11 +251,11 @@ Le visiteur se réveille de son lit et voit plusieurs piles de feuilles dans sa 
 
 ### 6.2 INT ??? CHAMBRE/SALLE À MANGER/SALON
 
-Le visiteur se déplace avec son laptop de scène en scène, de plus en plus rapidement. Plusieurs éléments paranormaux sont présents dans chaque scène alors qu’elles se referment peu à peu sur le visiteur, comme le corridor. Un bouton “Se Déconnecter” clignote dans l’écran de l’ordinateur. Si le visiteur ne clique pas sur le bouton après une certaine période de temps, une animation où le bouton est cliqué joue. Lorsque le bouton est cliqué, on passe en scène 6.3 le son de battement de cœur grave de William joue de plus en plus vite lors de la scène 6.2.
+Le visiteur se déplace avec son laptop de scène en scène, de plus en plus rapidement. Plusieurs éléments paranormaux sont présents dans chaque scène alors qu’elles se referment peu à peu sur le visiteur, comme le corridor. Un bouton “Se déconnecter” clignote dans l’écran de l’ordinateur. Si le visiteur ne clique pas sur le bouton après une certaine période de temps, une animation où le bouton est cliqué joue. Lorsque le bouton est cliqué, on passe en scène 6.3 le son de battement de cœur grave de William joue de plus en plus vite lors de la scène 6.2.
 
 
 
-### 6.3 TENEBRE VIDE
+### 6.3 TENEBRES VIDES
 
 L’environnement du visiteur est complètement noir est inexistant, à l’exception de l’ordinateur portable qui est la seule chose visible de l’environnement.
 
@@ -301,7 +301,7 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 - 1 Bureau
 - 1 feuille seule
 - 1 Table de cuisine
-- 1 Bol de céréale
+- 1 Bol de céréales
 - 1 Frigo
 - 1 Comptoir de cuisine en L avec 1 four, 1 évier, 1 rack à vaisselle, des armoires et des étagères
 - 1 Meuble Télé
@@ -311,7 +311,7 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 - 1 pile de feuilles
 - 1 Cellulaire
 - 1 pile de livres
-- 1 environnement dimensionnelle  de feuille sans fin
+- 1 environnement dimensionnel  de feuille sans fin
 - 1 boite de lait
 - 1 boite de conserve
 - 1 bouteille de jus
@@ -351,12 +351,12 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 - ambiance joyeuse
 - ambiance malaisante
 - voix du professeur
-- bruit du logiciel Zoam (click et notifications)
+- bruit du logiciel Zoam (clic et notifications)
 - sons de cartoon:
     - bruit d’un marteau (bonk)
     - bruit  d’une bouche qui ouvre et ferme (pop)
 - voix du présentateur météo
-- bruit de feuilles de papier (piles qui tombent, feuille s’envole)
+- bruit de feuilles de papier (piles qui tombent, feuilles s’envolent)
 
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
@@ -439,7 +439,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 | Nous n'avons jamais fait de GUI dans Unity | Tutoriels vidéos de Thomas et d'autres personnes sur YouTube. | N/A |
 | Incertitude sur le fonctionnement de la communication entre Max 8 et Unity | Rencontrer Thomas pour en parler sur ce sujet. | N/A |
 | Nous n'avons jamais utilisé de kinect | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions démarrer la vidéo de départ manuellement |
-| La connection du casque vr à Max8 pourrait ne pas fonctionner | Notes de cours, expérimentation durant la session | Sinon, nous pourrions démarrer les changements manuellement |
+| La connexion du casque vr à Max8 pourrait ne pas fonctionner | Notes de cours, expérimentation durant la session | Sinon, nous pourrions démarrer les changements manuellement |
 | Les changements de pièces en vr pourraient ne pas fonctionner | Expérimentation durant la session | N/A |
 | Les vidéos 2D pourraient ne pas fonctionner sur les textures | Expérimentation durant la session | N/A |
 | Le changement de vidéos 2D sur le laptop en vr | Notes de cours, expérimentation durant la session | N/A |

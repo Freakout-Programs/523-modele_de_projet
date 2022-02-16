@@ -14,6 +14,10 @@
 
 ## Semaine 3
 
+Premièrement, l'équipement a été réservé et placé. Ghislain a commencé à expérimenter les lumières DMX, alors que William tente de connecter son casque VR dans Unity, mais sans succès pour des problèmes techniques hors de son contrôle. En attendant, il a commencé ses modélisations 3D.
+
+![image résumant semaine 3](medias/journal-collectif-3.png)
+
 ## Semaine 2
 
 En premier lieu, nous avons finalisé le scénario plan par plan. Ensuite, nous avons complété the Storyboard, et nous avons trouvé un titre. Finalement, nous allons compléter la préproduction, corriger les problèmes soulevés par les professeurs, et nous allons conclure le Moodboard.
