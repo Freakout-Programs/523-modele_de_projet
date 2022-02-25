@@ -129,16 +129,16 @@ Remettre finalement la préproduction dans les temps pour mercredi, et commencer
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+Connexion du casque VR à l'ordinateur miraculeusement réussie. Rien d'autre n'a pu être effectué par difficultés informatiques.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![La résurrection du VR](medias/wd-semaine-4.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -151,7 +151,7 @@ Remettre finalement la préproduction dans les temps pour mercredi, et commencer
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -170,13 +170,13 @@ Remettre finalement la préproduction dans les temps pour mercredi, et commencer
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Tout va bien.........](medias/wd-semaine-5.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [X] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
@@ -190,7 +190,7 @@ Remettre finalement la préproduction dans les temps pour mercredi, et commencer
 - [ ] Complètement
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait
+- [X] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
