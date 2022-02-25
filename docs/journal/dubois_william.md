@@ -170,7 +170,7 @@ D'abord, j'ai réussi à créer le script qui permet de déplacer la caméra aux
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![Tout va bien.........](medias/wd-semaine-5-final.jpg)
+![Tout va bien.........](medias/wd-semaine-5-final.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
