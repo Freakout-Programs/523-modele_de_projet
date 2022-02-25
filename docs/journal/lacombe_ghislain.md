@@ -173,6 +173,7 @@ N/A
 
 ### Défis pour la prochaine semaine
 Finir le prototypage
+
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
