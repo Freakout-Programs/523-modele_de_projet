@@ -163,6 +163,7 @@ Réorganiser mon temps et travailler le plus possible.
 
 ### Défis pour la prochaine semaine
 Essayer de faire les prototypes de téléportation de caméra, des collisions avec les mains et des GUI en VR. Ainsi, une grosse partie du travail qui peut causer des complications sera déjà réalisé.
+
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
@@ -200,6 +201,7 @@ Prioriser la création de l'environnement 3D, ce qui requit peu de code et qui p
 
 ### Défis pour la prochaine semaine
 Prioriser la production de l'environnement 3D de l'expérience. Donc, dès la semaine prochaine, réaliser la scène Unity commune finale. Une fois ceci fait, je fais prioriser le codage, pour éviter de manquer de temps sur le contenu.
+
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
