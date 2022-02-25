@@ -131,82 +131,88 @@ N/A
 N/A
 
 ### Défis pour la prochaine semaine
-Finir le prototypage, mettre à jour le schéma de branchement
+Avancer le prototypage, mettre à jour le schéma de branchement
 
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+-Schéma de branchement final
+-Installation du projecteur au plafond
+-Installation des haut-parleurs
+-Finalisation des preset de lumières
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Travail sur le projecteur](medias/travaux_projecteur.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Certains problèmes avec les haut-parleurs (bruit de fond) ont pris du temps à régler.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Finir le prototypage
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+-Installation des lumières au plafond
+-Tests et installation de la kinect
+-Tests en VR
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Travail sur le projecteur](medias/travaux_vr.jpg)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Le prototypage peut être considéré comme étant terminé.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+-Faire les animation 2d en dehors du vr
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
