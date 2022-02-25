@@ -143,10 +143,10 @@ Connexion du casque VR à l'ordinateur miraculeusement réussie. Rien d'autre n'
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Le prototypage ne pouvait commencer jusqu'à ce que le problème de connexion entre le casque VR et Unity soit réglé.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Réorganiser mon temps alloué sur mes tâches, enfin de prioriser les tests les plus urgents tout en minimisant l'impact sur l'échéancier.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -156,21 +156,21 @@ Connexion du casque VR à l'ordinateur miraculeusement réussie. Rien d'autre n'
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Les prototypes ont été retardés par fautes informatiques.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Réorganiser mon temps et travailler le plus possible.
 
 ### Défis pour la prochaine semaine
-
+Essayer de faire les prototypes de téléportation de caméra, des collisions avec les mains et des GUI en VR. Ainsi, une grosse partie du travail qui peut causer des complications sera déjà réalisé.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+D'abord, j'ai réussi à créer le script qui permet de déplacer la caméra aux positions et moments voulus. Puis, j'ai réussi à faire communiquer Max 8 et Unity ensemble. Enfin, j'ai pu intégrer les manettes dans une scène Unity sous forme de mains 3D.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![Tout va bien.........](medias/wd-semaine-5.jpg)
+![Tout va bien.........](medias/wd-semaine-5-final.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -180,10 +180,10 @@ Connexion du casque VR à l'ordinateur miraculeusement réussie. Rien d'autre n'
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Le casque VR causant toujours capricieux comme d'habitude, peu de travail a pu être réalisé dans le temps accordé.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Prioriser la création de l'environnement 3D.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -193,13 +193,13 @@ Connexion du casque VR à l'ordinateur miraculeusement réussie. Rien d'autre n'
 - [X] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Toujours des problèmes de casque VR qui ralentit le prototypage et la production.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Prioriser la création de l'environnement 3D, ce qui requit peu de code et qui permet de produire quelque chose du résultat final avec très peu de complications.
 
 ### Défis pour la prochaine semaine
-
+Prioriser la production de l'environnement 3D de l'expérience. Donc, dès la semaine prochaine, réaliser la scène Unity commune finale. Une fois ceci fait, je fais prioriser le codage, pour éviter de manquer de temps sur le contenu.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
