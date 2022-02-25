@@ -213,7 +213,9 @@ N/A
 N/A
 
 ### Défis pour la prochaine semaine
--Faire les animation 2d en dehors du vr
+- Faire les animation 2d en dehors du vr
+- Commencer les sons d'ambiance extérieurs au vr 
+
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
