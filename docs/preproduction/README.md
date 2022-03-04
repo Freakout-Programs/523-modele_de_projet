@@ -312,9 +312,6 @@ Lorsque le casque montre l’ordinateur portable seul, les lumières extérieure
 - 1 Cellulaire
 - 1 pile de livres
 - 1 environnement dimensionnel  de feuille sans fin
-- 1 boite de lait
-- 1 boite de conserve
-- 1 bouteille de jus
 
 ### Quelques références:
 
