@@ -205,21 +205,29 @@ Prioriser la production de l'environnement 3D de l'expérience. Donc, dès la se
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Début de la construction de l'environnement 3D.
+- Début de l'ameublement de l'environnement 3D.
+- Intégrations de mains 3D dans la scène Unity.
+- Détection des collisions entre la main VR et un objet 3D.
+- Afficher une vidéo sur un objet 3D (dans ce cas, sur un laptop).
+- Recherche et application de matériel pour les objets 3D.
+- Recherche et compréhension sur comment faire communiquer des scripts C# vers un script maître (gestionnaire d'évènement).
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Image fier semaine rattrapage WD (collisions)](medias/semaine-rattrapage-wd.png)
 
+![Image fier semaine rattrapage WD (Maison 3D)](medias/unity-maison-1.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'avais prévu d'avoir au moins la maison finale pour la fin de cette semaine, mais la réussite des collisions avec les mains VR et de l'affichage vidéo sur des objets 3D fait diminuer la charge de travail et permet de respirer un peu plus.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -227,17 +235,20 @@ Prioriser la production de l'environnement 3D de l'expérience. Donc, dès la se
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+La maison n'est pas finale, mais la création fonctionnelle des prototypes de collisions et d'affichage vidéo compense le tout.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
+- Faire les animations 2D.
+- Finir la maison 3D.
+- Si possible, commencer le script maître de gestionnaire d'évènements.
 
 ---
 ## Semaine 6

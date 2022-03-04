@@ -12,13 +12,13 @@
 
 En bref, les lumières ont été installées au plafond, la kinect a été testée et installée, et quelques prototypes de VR ont pu être réalisés, mais dans un temps anormalement astronomique, problèmes techniques de type informatiques et psychologiques.
 
-![image résumant semaine 5]()
+![image résumant semaine 5](medias/semaine-5-collectif.png)
 
 ## Semaine 4
 
 En résumé, le projecteur a été installé au plafond, les presets de lumières ont été finalisés, le schéma de branchement a été finalisé, puis le casque Vr peut enfin se connecter à Unity.
 
-![image résumant semaine 4]()
+![image résumant semaine 4](medias/semaine-4-collectif.png)
 
 ## Semaine 3
 
