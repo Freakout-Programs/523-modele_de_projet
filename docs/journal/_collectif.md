@@ -8,6 +8,12 @@
 
 ## Semaine 6
 
+En bref, pour ma part (WD), débogage d'Unity, affichage d'une vidéo avec du son sur un mesh, communications interscript et apparition d'un objet 3D en opacité.
+
+#### Partie de Ghislain à venir.
+
+![image résumant semaine 6](medias/semaine-6-wd.png)
+
 ## Semaine 5
 
 En bref, les lumières ont été installées au plafond, la kinect a été testée et installée, et quelques prototypes de VR ont pu être réalisés, mais dans un temps anormalement astronomique, problèmes techniques de type informatiques et psychologiques.
