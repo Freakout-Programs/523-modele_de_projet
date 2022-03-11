@@ -253,39 +253,47 @@ La maison n'est pas finale, mais la création fonctionnelle des prototypes de co
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Jouer une vidéo avec du son sur le laptop et sur la télévision lorsque le bouton "Se connecter" du laptop et touché.
+- Faire apparaître en fade in de manière fixe le laptop de déconnexion sur la caméra du joueur pour la fin.
+- Faire communiquer les scripts entre elles et le MasterScript.
+- Redimensionnement de la maison et ajustement des matériaux.
+- Réparations de quelques problèmes de caméra.
+- Ajout de nombreux commentaires sur mes scripts.
+- Téléportation vers la zone de fin lorsque le bouton "Se déconnecter" est touché.
+- Recherche sur comment rouler l'expérience en continu même lorsque le casque est retiré, enfin d'empêcher le projet de briser.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Image fier semaine 6 WD](medias/semaine-6-wd.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Peu
-- [ ] Pas du tout
+- [X] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Il y a eu une perte de temps astronomique en débogage qui a ainsi ralenti la production de manière radicale.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Demander une rencontre d'urgence de priorité "NOAH, GET THE BOAT" avec les professeurs, enfin d'établir un plan de match stratégique d'intervention pour déterminer sur quoi je dois me concentrer pour la semaine prochaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait
+- [X] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Débogage extrême avec Unity, défaillance des capteurs de proximités du casque Oculus, et étant le seul de l'équipe à trouver les problèmes de code, et les corriger.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Demander une rencontre d'urgence avec les professeurs pour déterminer les points critiques du projet à terminer pour la semaine prochaine.
 
 ### Défis pour la prochaine semaine
+Finir le projet le plus possible pour la semaine prochaine selon les points importants relevés de ma rencontre d'urgence avec les professeurs.
 
 ---
 ## Semaine 7
