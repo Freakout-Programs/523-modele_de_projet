@@ -8,9 +8,9 @@
 
 ## Semaine 6
 
-#### Partie de Ghislain à venir.
-
 En bref, pour ma part (WD), débogage d'Unity, affichage d'une vidéo avec du son sur un mesh, communications interscript et apparition d'un objet 3D en opacité.
+
+Espace physique toujours en développement.
 
 ![image résumant semaine 6](medias/semaine-6-wd.png)
 
