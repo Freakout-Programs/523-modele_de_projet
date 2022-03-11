@@ -277,7 +277,7 @@ La maison n'est pas finale, mais la création fonctionnelle des prototypes de co
  Il y a eu une perte de temps astronomique en débogage qui a ainsi ralenti la production de manière radicale.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Demander une rencontre d'urgence de priorité "NOAH, GET THE BOAT" avec les professeurs, enfin d'établir un plan de match stratégique d'intervention pour déterminer sur quoi je dois me concentrer pour la semaine prochaine.
+Demander une rencontre d'urgence prioritaire avec les professeurs, enfin d'établir un plan de match stratégique d'intervention pour déterminer sur quoi je dois me concentrer pour la semaine prochaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
