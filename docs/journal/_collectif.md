@@ -6,6 +6,10 @@
 
 ## Semaine 7
 
+En bref, l'architecture et l'ameublement de la maison sont fini, les animations du prof et les cartoons sont intégrés, intégrations sonores réalisées, code pour l'apparition, de manière périodique, des paquets de feuilles de la feuille d'examen, du changement de la photo de famille du salon, réparation du laptop de déconnexion, intégration des modélisations manquantes, et corrections massives de bogues divers.
+
+![image résumant semaine 7](medias/semaine-7-wd.png)
+
 ## Semaine 6
 
 En bref, pour ma part (WD), débogage d'Unity, affichage d'une vidéo avec du son sur un mesh, communications interscript et apparition d'un objet 3D en opacité.

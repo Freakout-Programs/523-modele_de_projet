@@ -299,39 +299,57 @@ Finir le projet le plus possible pour la semaine prochaine selon les points impo
 ## Semaine 7
 ### Résumé des réalisations effectuées
 
+- Intégrer les animations du prof sur le laptop.
+- Intégrer le son de popup de Teams.
+- Intégrer les 2 cartoons sur la télévision.
+- Intégrer mes dernières modélisations manquantes.
+- Ajout d'une augmentation de cadence pour intense.
+- Réparation du laptop de déconnexion de fin.
+- Fin de la construction et de l'ameublement de la maison.
+- Apparition de tas de feuilles périodiquement sur le bureau.
+- faire en sorte que le bouton se connecter soit interactif que lorsque Max 8 lui dira de l'être.
+- Faire apparaître la page d'examen échoué sur le bureau au moment voulu.
+- Faire changer la photo de famille du salon au moment voulu.
+- Réparation du problème de gardien du casque Oculus en désactivant ce dernier.
+- Création du code pour l'intégration de la musique d'ambiance.
+- Correction de nombreux bogues divers.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Image fier semaine 7 WD](medias/semaine-7-wd.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Presque tout ce qui devait être fait pour vendredi a été fait. Il ne manque plus que de travailler sur les sons et les animations, et un peu de peaufinement, et tout sera fini.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Une bonne grosse journée de travail est, selon moi, suffisant pour mener à terme ce projet.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il y a juste quelques manques de communication au niveau des sons et de Max 8, mais réglables sans trop de souci.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Travailler sérieusement en une journée devrait être suffisant pour tout finir et tourner la page.
 
 ### Défis pour la prochaine semaine
 
+- Faire la vidéo de réalisation.
+- Finaliser la page Web du projet.
+- Test global de qualité pour s'assurer que rien ne brisera pour la semaine prochaine (Monkey test).
+- Finaliser les positions X, Y et Z de la caméra sur l'espace physique final de l'expérience.
 
 ## Semaine 8
 
