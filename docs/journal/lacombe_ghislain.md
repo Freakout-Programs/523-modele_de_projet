@@ -219,116 +219,135 @@ N/A
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Trouver les doubleurs pour les lignes du prof et du journaliste 
+- Rédiger le texte du journaliste 
+- Avancement des projections pour le projecteur
+- Trouver de la musique libre de droit comme musique de fond
+- Tutoriel de la kinect par Guillaume
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Placeholder](medias/Placeholder.jpg)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+Finir les projections
+Enregistrer la voix du journaliste
 
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Avancement des projections
+- Enregistrement de la journaliste
+- Avancement du patcher max
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Placeholder](medias/maxversionanterieure.png)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Les projections prennent plus de temps que voulu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Finaliser le tout la semaine prochaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+ Les projections prennent plus de temps que voulu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Finaliser le tout la semaine prochaine.
 
 ### Défis pour la prochaine semaine
+Création de la musique de fond pour le vr
+Finir les projections
+Finir le patcher max
 
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Création de la musique de fond pour le vr
+- Terminer les projections
+- Avancement du patcher max
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Placeholder](medias/placeholder.png)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Bug dans le patcher max lors de la communication avec Unity.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Chercher et fixer le problème d'une boucle dans le patcher max.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+ Bug dans le patcher max lors de la communication avec Unity.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Chercher et fixer le problème d'une boucle dans le patcher max.
 
 ### Défis pour la prochaine semaine
-
+Terminer le patcher max
+Modification de la première projection
 
 ## Semaine 8
-
+### Résumé des réalisations effectuées
+- Terminer le patcher max
+- Modification de la première projection
 
 ## Semaine 9
