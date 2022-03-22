@@ -413,10 +413,11 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
 * [Mixcraft 9 Pro Studio](https://acoustica.com/store/mixcraft-9-pro-studio)
-* [Unity 2019 lts ou similaire](https://unity.com/)
-* [Logiciels Adobe (After Effects, Photoshop, Dimension, etc)](https://www.adobe.com/ca_fr/)
-* [Maya 2020](https://www.autodesk.com/products/maya/overview)
+* [Unity 2021 ou similaire](https://unity.com/)
+* [Logiciels Adobe (After Effects, Photoshop, etc)](https://www.adobe.com/ca_fr/)
 * [Max 8](https://cycling74.com/products/max)
+* [Q Light Controller Plus](https://www.qlcplus.org/)
+* [VNC Viewer](https://www.realvnc.com/fr/connect/download/viewer/)
 
 ## Ressources humaines requises
 
