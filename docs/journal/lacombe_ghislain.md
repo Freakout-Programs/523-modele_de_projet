@@ -226,7 +226,7 @@ N/A
 - Tutoriel de la kinect par Guillaume
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Placeholder](medias/Placeholder.jpg)
+![Logiciel de montage vidéo](medias/Premiere.png)
 
 
 
@@ -311,7 +311,7 @@ Finir le patcher max
 - Avancement du patcher max
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Placeholder](medias/placeholder.png)
+![Logiciel Reaper](medias/reaper.png)
 
 
 
