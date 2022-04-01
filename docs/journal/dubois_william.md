@@ -350,8 +350,3 @@ Travailler sérieusement en une journée devrait être suffisant pour tout finir
 - Finaliser la page Web du projet.
 - Test global de qualité pour s'assurer que rien ne brisera pour la semaine prochaine (Monkey test).
 - Finaliser les positions X, Y et Z de la caméra sur l'espace physique final de l'expérience.
-
-## Semaine 8
-
-
-## Semaine 9

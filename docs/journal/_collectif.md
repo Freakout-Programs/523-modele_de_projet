@@ -1,9 +1,5 @@
 # Journal de création
 
-## Semaine 9
-
-## Semaine 8
-
 ## Semaine 7
 
 En bref, l'architecture et l'ameublement de la maison sont fini, les animations du prof et les cartoons sont intégrés, intégrations sonores réalisées, code pour l'apparition, de manière périodique, des paquets de feuilles de la feuille d'examen, du changement de la photo de famille du salon, réparation du laptop de déconnexion, intégration des modélisations manquantes, et corrections massives de bogues divers.
